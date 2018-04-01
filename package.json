@@ -2,9 +2,9 @@
   "name": "oshwal-calendar",
   "version": "1.0.0",
   "description": "calendar screen scraper",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
