@@ -33,4 +33,5 @@ app.get('/api/calendar/subscribe', (req, res) => {
 
 const port = process.env.PORT || 3456;
 app.listen(port);
+app.use(express.static('./Public'))
 console.log(`Application started at ${port}`);
