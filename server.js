@@ -8,9 +8,9 @@ var calendar = ical.parseFile('./ics/calendar.ics');
 var calendarController = require('./calendarcontroller/calendar')
 //console.log(calendar);
 
-app.get('/api/calendar/subscribe', (req, res) => {
+app.get('/api/calendar/subscribe/:categories', (req, res) => {
     const getData = new Promise(function(resolve,reject){
-      calendarController.createIcs()
+      calendarController.createIcs(req.param.categories)
       fs.watch(`${process.cwd()}/ics/calendar.ics`,(curr,prev) => {
         if(curr){
           resolve("success")

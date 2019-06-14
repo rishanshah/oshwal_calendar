@@ -3,31 +3,417 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:adamgibbons/ics
 BEGIN:VEVENT
-UID:744f6b9e-0c3a-4b27-9d8d-a003b29cdbea
-SUMMARY:Anand Yatra
-DTSTAMP:20180401T123100Z
-DTSTART:20180406T083000Z
-DTEND:20180406T133000Z
+UID:59b99639-d72e-4aac-af49-850c6330252a
+SUMMARY:North Area Saturday Gujarati School
+											
+												North Area Saturday Yoga
+											
+												North Area Saturday BollyAerobics
+											
+												North East Saturday Yoga
+											
+												NW Elderly Monthly Meets
+											
+												North Area Saturday Cultural Activities
+											
+												NW Monthly Bhukhar
+DTSTAMP:20190614T135300Z
+DTSTART:20190601T083000Z
+DTEND:20190601T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ea88cbbb-a405-4674-99b3-53c809449754
-SUMMARY:West Area – Annual General Meeting 2018
-DTSTAMP:20180401T123100Z
-DTSTART:20180407T170000Z
-DTEND:20180407T220000Z
+UID:932de32b-dc39-4e7d-a6d7-608a557f2b92
+SUMMARY:Oshwal Health & Care Awareness Fair
+											
+												Ashta Prakari Puja
+											
+												North East Sunday Yoga
+											
+												North East Youth Club
+											
+												SAS Racquets & Kids Club
+											
+												Snatra Pooja with Bhakti
+DTSTAMP:20190614T135300Z
+DTSTART:20190602T060000Z
+DTEND:20190602T080000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6f66a80c-b47f-45c7-89b5-526a4fc14d4d
-SUMMARY:North West Area – Annual General Meeting 2018
-DTSTAMP:20180401T123100Z
-DTSTART:20180422T090000Z
-DTEND:20180422T130000Z
+UID:a6a4eb86-f325-4995-94b3-d94195f9d737
+SUMMARY:Ekta Mandal (Yoga)
+											
+												Ekta Mandal (Arts & Craft)
+											
+												North East Monday Yoga
+DTSTAMP:20190614T135300Z
+DTSTART:20190603T093000Z
+DTEND:20190603T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8ba6837b-79f0-4f04-986b-56bc05a44abd
-SUMMARY:Bhakti Sandhya 2018
-DTSTAMP:20180401T123100Z
-DTSTART:20180425T184500Z
-DTEND:20180425T213000Z
+UID:4a67ac55-7338-4a4b-9135-d30894e77cee
+SUMMARY:North East Tuesday Club
+											
+												North East Tuesday Yoga
+											
+												East Area Yoga Class
+											
+												North East Keep Fit
+DTSTAMP:20190614T135300Z
+DTSTART:20190604T090000Z
+DTEND:20190604T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:aa00392e-6722-459e-ac1e-a5653299ac15
+SUMMARY:North East Zumba Class
+											
+												How to start, grow, sustain and hand over a family business
+DTSTAMP:20190614T135300Z
+DTSTART:20190605T180000Z
+DTEND:20190605T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:22816c86-f5a8-46f6-9711-17ddc2d2e377
+SUMMARY:Ekta Mandal (Yoga)
+											
+												East Area Thursday Club
+											
+												NW Weekly Bhukhar
+											
+												Key to Happiness – The Jain Way
+DTSTAMP:20190614T135300Z
+DTSTART:20190606T093000Z
+DTEND:20190606T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7c6c22ba-e5b5-422c-9058-1e614c0be3ff
+SUMMARY:Anand Yatra 2019
+											
+												North Area Friday Youth Club
+											
+												North Area Friday Yoga
+											
+												North Area Friday Social Club
+											
+												Enabling Sports & Social Club
+DTSTAMP:20190614T135300Z
+DTSTART:20190607T070000Z
+DTEND:20190607T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:48e4b9c1-8972-4563-b64c-90de61e7df17
+SUMMARY:FunSkool, NWACAS and Communicate
+											
+												North Area Saturday Gujarati School
+											
+												North Area Saturday Yoga
+											
+												North Area Saturday BollyAerobics
+											
+												North East Saturday Yoga
+											
+												North Area Saturday Cultural Activities
+DTSTAMP:20190614T135300Z
+DTSTART:20190608T081500Z
+DTEND:20190608T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4a5053cf-5d2e-4c11-a069-e5177c5f2c8b
+SUMMARY:Ashta Prakari Puja
+											
+												North East Sunday Yoga
+											
+												North East Youth Club
+											
+												Snatra Pooja with Bhakti
+DTSTAMP:20190614T135300Z
+DTSTART:20190609T060000Z
+DTEND:20190609T080000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9f3001-c04c-46ba-a93a-614f98ee82c5
+SUMMARY:Ekta Mandal (Yoga)
+											
+												Ekta Mandal (Arts & Craft)
+											
+												North East Monday Yoga
+DTSTAMP:20190614T135300Z
+DTSTART:20190610T093000Z
+DTEND:20190610T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:513cc5d3-a219-4aee-806f-d506baac6a42
+SUMMARY:North East Tuesday Club
+											
+												North East Tuesday Yoga
+											
+												East Area Yoga Class
+											
+												North East Keep Fit
+DTSTAMP:20190614T135300Z
+DTSTART:20190611T090000Z
+DTEND:20190611T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a57741e3-2f08-45d7-ad04-7680dfdedc2d
+SUMMARY:North East Zumba Class
+DTSTAMP:20190614T135300Z
+DTSTART:20190612T180000Z
+DTEND:20190612T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ded249cb-1e9b-487d-bc18-bf4b85ffccf1
+SUMMARY:Ekta Mandal (Yoga)
+											
+												East Area Thursday Club
+											
+												NW – Weekly Bridge
+											
+												NW Weekly Bhukhar
+DTSTAMP:20190614T135300Z
+DTSTART:20190613T093000Z
+DTEND:20190613T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:14d8533b-a0d5-4936-ae42-e8a3eb916e13
+SUMMARY:Anand Yatra 2019
+											
+												North Area Friday Youth Club
+											
+												North Area Friday Yoga
+											
+												North Area Friday Social Club
+DTSTAMP:20190614T135300Z
+DTSTART:20190614T070000Z
+DTEND:20190614T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6612a4-7f67-4698-b8e7-e27158360da7
+SUMMARY:FunSkool, NWACAS and Communicate
+											
+												North Area Saturday Gujarati School
+											
+												North Area Saturday Yoga
+											
+												North Area Saturday BollyAerobics
+											
+												North East Saturday Yoga
+											
+												North Area Saturday Cultural Activities
+											
+												NW Whist Drive (Chokdi)
+DTSTAMP:20190614T135300Z
+DTSTART:20190615T081500Z
+DTEND:20190615T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:12105119-4671-45d5-84aa-3e06c3a6dd9b
+SUMMARY:Ashta Prakari Puja
+											
+												North East Sunday Yoga
+											
+												North East Youth Club
+											
+												SAS Racquets & Kids Club
+											
+												Snatra Pooja with Bhakti
+DTSTAMP:20190614T135300Z
+DTSTART:20190616T060000Z
+DTEND:20190616T080000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3358f58a-2f5b-4d99-9e03-57e51c88fcea
+SUMMARY:Ekta Mandal (Yoga)
+											
+												Ekta Mandal (Arts & Craft)
+											
+												North East Monday Yoga
+DTSTAMP:20190614T135300Z
+DTSTART:20190617T093000Z
+DTEND:20190617T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:753500e6-8424-4576-be53-5def946ca554
+SUMMARY:North East Tuesday Club
+											
+												North East Tuesday Yoga
+											
+												East Area Yoga Class
+											
+												North East Keep Fit
+DTSTAMP:20190614T135300Z
+DTSTART:20190618T090000Z
+DTEND:20190618T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4331823d-c7ee-4bda-ac55-bb83904d68b4
+SUMMARY:NW Family Social Evening
+											
+												North East Zumba Class
+											
+												South Social Wednesday Wellbeing
+DTSTAMP:20190614T135300Z
+DTSTART:20190619T173000Z
+DTEND:20190619T213000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ed75646a-f892-4234-bd1d-a1a8f80ca6d1
+SUMMARY:Ekta Mandal (Yoga)
+											
+												East Area Thursday Club
+											
+												NW – Weekly Bridge
+											
+												NW Weekly Bhukhar
+											
+												Key to Happiness – The Jain Way
+DTSTAMP:20190614T135300Z
+DTSTART:20190620T093000Z
+DTEND:20190620T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9292f400-5731-434f-9cac-a1ba73824241
+SUMMARY:Anand Yatra 2019
+											
+												North Area Friday Youth Club
+											
+												North Area Friday Yoga
+											
+												North Area Friday Social Club
+											
+												Enabling Sports & Social Club
+DTSTAMP:20190614T135300Z
+DTSTART:20190621T070000Z
+DTEND:20190621T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c8767d63-c42e-4045-a7b0-3351892c2e0c
+SUMMARY:FunSkool, NWACAS and Communicate
+											
+												North Area Saturday Gujarati School
+											
+												North Area Saturday Yoga
+											
+												North Area Saturday BollyAerobics
+											
+												North East Saturday Yoga
+											
+												North Area Saturday Cultural Activities
+DTSTAMP:20190614T135300Z
+DTSTART:20190622T081500Z
+DTEND:20190622T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:32db76a8-d3ca-4235-a322-462b5f5699a5
+SUMMARY:Ashta Prakari Puja
+											
+												North East Sunday Yoga
+											
+												North East Youth Club
+											
+												Summer Bhukhar Competition 2019
+											
+												Snatra Pooja with Bhakti
+											
+												Chokdi Tournament 2019 and Chai
+DTSTAMP:20190614T135300Z
+DTSTART:20190623T060000Z
+DTEND:20190623T080000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:03ad86d8-2dec-411c-818e-6c3098d467ed
+SUMMARY:Ekta Mandal (Yoga)
+											
+												Ekta Mandal (Arts & Craft)
+											
+												North East Monday Yoga
+DTSTAMP:20190614T135300Z
+DTSTART:20190624T093000Z
+DTEND:20190624T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ea938568-709f-4b3b-a777-437bb1441ba9
+SUMMARY:North East Tuesday Club
+											
+												North East Tuesday Yoga
+											
+												East Area Yoga Class
+											
+												North East Keep Fit
+DTSTAMP:20190614T135300Z
+DTSTART:20190625T090000Z
+DTEND:20190625T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:651d0a25-b005-4ed8-a350-0ba0e804815a
+SUMMARY:North East Zumba Class
+											
+												Bhakti Sandhya 2019
+											
+												Blood Donation Awareness Seminar
+DTSTAMP:20190614T135300Z
+DTSTART:20190626T180000Z
+DTEND:20190626T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ff12ee4e-5a17-452b-bf1d-c6756c70490a
+SUMMARY:Ekta Mandal (Yoga)
+											
+												East Area Thursday Club
+											
+												NW – Weekly Bridge
+											
+												NW Weekly Bhukhar
+DTSTAMP:20190614T135300Z
+DTSTART:20190627T093000Z
+DTEND:20190627T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0522538c-72ae-44f8-993d-7419f6519c40
+SUMMARY:Anand Yatra 2019
+											
+												North Area Friday Youth Club
+											
+												North Area Friday Yoga
+											
+												North Area Friday Social Club
+DTSTAMP:20190614T135300Z
+DTSTART:20190628T070000Z
+DTEND:20190628T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4d42cb2b-28b2-4145-b418-e97278f50de6
+SUMMARY:FunSkool, NWACAS and Communicate
+											
+												North Area Saturday Gujarati School
+											
+												North Area Saturday Yoga
+											
+												North Area Saturday BollyAerobics
+											
+												North East Saturday Yoga
+											
+												North Area Saturday Cultural Activities
+											
+												East Area Monthly Social Gathering
+DTSTAMP:20190614T135300Z
+DTSTART:20190629T081500Z
+DTEND:20190629T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:65447fa1-77e9-4a94-a2f7-18108090de07
+SUMMARY:Ashta Prakari Puja
+											
+												Epping Forest Trek
+											
+												North East Sunday Yoga
+											
+												North East Youth Club
+											
+												SAS Racquets & Kids Club
+											
+												Snatra Pooja with Bhakti
+DTSTAMP:20190614T135300Z
+DTSTART:20190630T060000Z
+DTEND:20190630T080000Z
 END:VEVENT
 END:VCALENDAR
