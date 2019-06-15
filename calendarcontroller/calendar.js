@@ -1,6 +1,6 @@
 
 
-exports.createIcs = function(){
+exports.createIcs = function(categories){
   const cheerio = require('cheerio');
   const rp = require('request-promise');
   const { writeFileSync } = require('fs');
@@ -9,7 +9,7 @@ exports.createIcs = function(){
   const fs = require('fs')
   const options = {
 
-    uri:"https://www.oshwal.org.uk/calendar/action~month/cat_ids~89,39,75,20,109,17,71/request_format~json/",
+    uri:"https://www.oshwal.org.uk/calendar/action~month/cat_ids~"+categories+"/request_format~json/",
     transform: function(body){
       return cheerio.load(body, {ignoreWhitespace: true});
     }
