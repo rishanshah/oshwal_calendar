@@ -3,447 +3,1152 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:adamgibbons/ics
 BEGIN:VEVENT
-UID:39b89b79-5ea7-4ece-bfe9-908c3be51aa8
+UID:110b0a53-6c9a-408c-b4d0-480b6e5e4e2f
 SUMMARY:North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												NW Elderly Monthly Meets
-											
-												North Area Saturday Cultural Activities
-											
-												NW Monthly Bhukhar
-DTSTAMP:20190615T131600Z
+																							@ Woodhouse College – Main building
+DTSTAMP:20190615T134000Z
 DTSTART:20190601T083000Z
 DTEND:20190601T113000Z
-DESCRIPTION:SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.orgSATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.orgSATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org Contact Details\: Manjulaben Shah – 020 8864 2522 Pramilaben Shah – 020 8907 2188 Schedule for the event\: 11.00am to 12.00pm – Yoga 12.00pm to 1.00pm – Meet and greet 1.00pm to 2.00pm – Lunch[...]SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]Contact Details\: Ajit Shah – 07737 418 603 Uttom Shah – 07909 513 362 Mahendrabhai Chandaria – 07714 712 713 Pritiben Gudka – 07737 150 832 Schedule plan for that event on the dates being[...]
+DESCRIPTION:SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.org
 END:VEVENT
 BEGIN:VEVENT
-UID:493c0591-9030-46d9-b9bc-472c3fa676e1
-SUMMARY:Oshwal Health & Care Awareness Fair
-											
-												Ashta Prakari Puja
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												SAS Racquets & Kids Club
-											
-												Snatra Pooja with Bhakti
-DTSTAMP:20190615T131600Z
+UID:c7ae8a11-97d8-4a37-a568-b345958edad3
+SUMMARY:North Area Saturday Yoga
+																							@ Woodhouse College – Canteen
+DTSTAMP:20190615T134000Z
+DTSTART:20190601T084500Z
+DTEND:20190601T101500Z
+DESCRIPTION:SATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:c594a364-a2e3-4a15-9d8e-26d884ae0d06
+SUMMARY:North Area Saturday BollyAerobics
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190601T090000Z
+DTEND:20190601T100000Z
+DESCRIPTION:SATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f818fe4d-96e0-4ccd-b344-23c820236e7e
+SUMMARY:North East Saturday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190601T090000Z
+DTEND:20190601T103000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:cb4e5baa-0b99-44df-a7da-5a7e344c5c0e
+SUMMARY:NW Elderly Monthly Meets
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190601T100000Z
+DTEND:20190601T150000Z
+DESCRIPTION:Contact Details\: Manjulaben Shah – 020 8864 2522 Pramilaben Shah – 020 8907 2188 Schedule for the event\: 11.00am to 12.00pm – Yoga 12.00pm to 1.00pm – Meet and greet 1.00pm to 2.00pm – Lunch[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:604ea01f-4ebc-4704-8e35-11cc10297fde
+SUMMARY:North Area Saturday Cultural Activities
+																							@ Woodhouse College - Main  Building
+DTSTAMP:20190615T134000Z
+DTSTART:20190601T103000Z
+DTEND:20190601T113000Z
+DESCRIPTION:SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c1ab5d-9c51-4702-88f4-5ee060b5b775
+SUMMARY:NW Monthly Bhukhar
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190601T181500Z
+DTEND:20190601T220000Z
+DESCRIPTION:Contact Details\: Ajit Shah – 07737 418 603 Uttom Shah – 07909 513 362 Mahendrabhai Chandaria – 07714 712 713 Pritiben Gudka – 07737 150 832 Schedule plan for that event on the dates being[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:14cfca6f-a665-40cc-bd76-09cbd48d3c94
+SUMMARY:Ashta Prakari Puja
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190602T060000Z
 DTEND:20190602T080000Z
-DESCRIPTION:This showcase event is aimed everyone whether young and old. The Oshwal Health & Care Awareness Fair, on Sunday 2 June 2019 at Oshwal Centre will focus on health, well-being, care and career opportunities. As[...]Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]   Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:1e336bad-c7a9-47b6-9000-ac1f3443882b
+UID:c9703873-b7d2-4c70-b05e-ae7723a5aec6
+SUMMARY:North East Sunday Yoga
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190602T080000Z
+DTEND:20190602T093000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:0137d9cc-f716-4e15-a6f9-dbb1dd4c1bf3
+SUMMARY:North East Youth Club
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190602T080000Z
+DTEND:20190602T120000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:cf5e59a6-b185-40a9-bbfc-2c4ade7bf1ca
+SUMMARY:SAS Racquets & Kids Club
+DTSTAMP:20190615T134000Z
+DTSTART:20190602T090000Z
+DTEND:20190602T103000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:8f83d6e7-1cea-4ab0-bd62-f952fd6aa7d3
+SUMMARY:Snatra Pooja with Bhakti
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190602T090000Z
+DTEND:20190602T113000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+END:VEVENT
+BEGIN:VEVENT
+UID:00904043-bd46-49ba-8fe2-58fb5c50a6c7
 SUMMARY:Ekta Mandal (Yoga)
-											
-												Ekta Mandal (Arts & Craft)
-											
-												North East Monday Yoga
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190603T093000Z
 DTEND:20190603T113000Z
-DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370Contact Details\: Vinaben Dhanani – 07970 426 370 Bijal Shah – 07887 390772 Mina Shah – 07904 728870 
+DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370
 END:VEVENT
 BEGIN:VEVENT
-UID:a1c9d2dc-b7f9-4f2e-ae79-9c421a4bf5fc
+UID:f6a29699-667f-4ec3-b745-f5dddaaa6c50
+SUMMARY:Ekta Mandal (Arts & Craft)
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190603T120000Z
+DTEND:20190603T140000Z
+DESCRIPTION:Contact Details\: Vinaben Dhanani – 07970 426 370 Bijal Shah – 07887 390772 Mina Shah – 07904 728870
+END:VEVENT
+BEGIN:VEVENT
+UID:821956c9-5052-4ad8-93cd-53d225fdfbe8
+SUMMARY:North East Monday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190603T180000Z
+DTEND:20190603T193000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:52a3edc3-9e0b-4f0b-b672-6053ee0948d5
 SUMMARY:North East Tuesday Club
-											
-												North East Tuesday Yoga
-											
-												East Area Yoga Class
-											
-												North East Keep Fit
-DTSTAMP:20190615T131600Z
+																							@ Oshwal House
+DTSTAMP:20190615T134000Z
 DTSTART:20190604T090000Z
 DTEND:20190604T123000Z
-DESCRIPTION:Tuesday Club – Play games, cards and have fun! Yoga is an ancient form of exercise which focuses on mind, body and soul. It also focuses on strength, flexibility and breathing to boost physical and mental wellbeing. This is open to all ages and[...]Stay healthy with our weekly exercises classes
+DESCRIPTION:Tuesday Club – Play games, cards and have fun!
 END:VEVENT
 BEGIN:VEVENT
-UID:9e65b07e-25a0-4b36-92f3-8176173bc2bd
+UID:8b6139db-6c82-495f-a533-9922d63f68e6
+SUMMARY:North East Tuesday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190604T180000Z
+DTEND:20190604T193000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:049249a4-7b8e-4cc6-ba87-8ccb2a135620
+SUMMARY:East Area Yoga Class
+DTSTAMP:20190615T134000Z
+DTSTART:20190604T190000Z
+DTEND:20190604T200000Z
+DESCRIPTION:Yoga is an ancient form of exercise which focuses on mind, body and soul. It also focuses on strength, flexibility and breathing to boost physical and mental wellbeing. This is open to all ages and[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c85072-b13e-4f9f-8ce0-b21e26f6660d
+SUMMARY:North East Keep Fit
+																							@ Trinity at Bowes Methodist Church
+DTSTAMP:20190615T134000Z
+DTSTART:20190604T190000Z
+DTEND:20190604T200000Z
+DESCRIPTION:Stay healthy with our weekly exercises classes
+END:VEVENT
+BEGIN:VEVENT
+UID:638181c5-ff37-4b9e-880a-8dcaa23b4045
 SUMMARY:North East Zumba Class
-											
-												How to start, grow, sustain and hand over a family business
-DTSTAMP:20190615T131600Z
+																							@ Ruth Winston Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190605T180000Z
 DTEND:20190605T190000Z
-DESCRIPTION: About Bharat Shah Dr Bharat Kumar Hansraj Shah was born on the 20th December 1949 in Nairobi, Kenya. He is the eldest son of the Late Hansraj Devraj Shah, a successful Indian businessman who was[...]
+DESCRIPTION: 
 END:VEVENT
 BEGIN:VEVENT
-UID:46652a1c-5618-4667-81a4-6d75ae887115
+UID:838da898-1139-4769-9d55-644b8b0d6424
+SUMMARY:How to start, grow, sustain and hand over a family business
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190605T183000Z
+DTEND:20190605T213000Z
+DESCRIPTION:About Bharat Shah Dr Bharat Kumar Hansraj Shah was born on the 20th December 1949 in Nairobi, Kenya. He is the eldest son of the Late Hansraj Devraj Shah, a successful Indian businessman who was[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:e9eddcf3-6e54-4e31-878a-9886c15c84d9
 SUMMARY:Ekta Mandal (Yoga)
-											
-												East Area Thursday Club
-											
-												NW Weekly Bhukhar
-											
-												Key to Happiness – The Jain Way
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190606T093000Z
 DTEND:20190606T113000Z
-DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370Thursday club is formed to get our elders out and have few hours to meet others and mingle with others. There are activities they can do which will help them towards a healthy lifestyle. We[...]This is a Weekly event every Thursday! Contact Details\: Mahendrabhai Chandaria – 07714 712 713Key to Happiness- The Jain Way To Improve our understanding of Jain Dharma and its role in our search for happiness In association with Institute of Jainology we are embarking a series of educational talks[...]
+DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370
 END:VEVENT
 BEGIN:VEVENT
-UID:e9b4f87c-d005-43f5-a43b-c56289f6b9dd
+UID:f326efb9-2c9a-4c68-9ca9-860f15cea036
+SUMMARY:East Area Thursday Club
+DTSTAMP:20190615T134000Z
+DTSTART:20190606T113000Z
+DTEND:20190606T133000Z
+DESCRIPTION:Thursday club is formed to get our elders out and have few hours to meet others and mingle with others. There are activities they can do which will help them towards a healthy lifestyle. We[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:2b89ee0d-4039-4ea6-8468-8e92e84b27c4
+SUMMARY:NW Weekly Bhukhar
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190606T184500Z
+DTEND:20190606T213000Z
+DESCRIPTION:This is a Weekly event every Thursday! Contact Details\: Mahendrabhai Chandaria – 07714 712 713
+END:VEVENT
+BEGIN:VEVENT
+UID:145cc1a6-752f-444a-bd01-7a90bfde7ff4
+SUMMARY:Key to Happiness – The Jain Way
+																							@ Committee Room, Oshwal House
+DTSTAMP:20190615T134000Z
+DTSTART:20190606T190000Z
+DTEND:20190606T203000Z
+DESCRIPTION:Key to Happiness- The Jain Way To Improve our understanding of Jain Dharma and its role in our search for happiness In association with Institute of Jainology we are embarking a series of educational talks[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:dcf9418e-b979-4bd7-9953-144614447777
 SUMMARY:Anand Yatra 2019
-											
-												North Area Friday Youth Club
-											
-												North Area Friday Yoga
-											
-												North Area Friday Social Club
-											
-												Enabling Sports & Social Club
-DTSTAMP:20190615T131600Z
+DTSTAMP:20190615T134000Z
 DTSTART:20190607T070000Z
 DTEND:20190607T133000Z
-DESCRIPTION:Anand Yatra is a regular program for the senior members of our community, which takes place every Friday morning, apart from the Festival days and the winter months. The regular activities include various Poojas in[...]6-8pm Under 12s 8-10pm Over 12s Get active, play games and make new friends. For more information contact Rakhee\: yc.north@oshwal.orgFRIDAY YOGA Woodhouse College – Dance Studio 7-8pm Suitable for all levels ages 16+. For more information contact Simran\: activities-n@oshwal.orgFRIDAY SOCIAL CLUB Woodhouse College – Foyer 7.30 – 10.30 pm Socialise with friends playing a range of table top games. For more information contact Kuntesh\: social-n@oshwal.orgCheck out our video\:
+DESCRIPTION:Anand Yatra is a regular program for the senior members of our community, which takes place every Friday morning, apart from the Festival days and the winter months. The regular activities include various Poojas in[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:7d8b634e-9c03-466c-92ed-7388842b0ae0
+UID:5b0c6fc2-1926-46a3-86bf-d5c3bd1fbb6c
+SUMMARY:North Area Friday Youth Club
+																							@ Woodhouse College - Sports Hall
+DTSTAMP:20190615T134000Z
+DTSTART:20190607T170000Z
+DTEND:20190607T210000Z
+DESCRIPTION:6-8pm Under 12s 8-10pm Over 12s Get active, play games and make new friends. For more information contact Rakhee\: yc.north@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:89b6a19e-f8ba-4fbd-8004-45f2d54baa7f
+SUMMARY:North Area Friday Yoga
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190607T180000Z
+DTEND:20190607T190000Z
+DESCRIPTION:FRIDAY YOGA Woodhouse College – Dance Studio 7-8pm Suitable for all levels ages 16+. For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:67ab96ba-84bd-4784-857a-f34e9e6b68a8
+SUMMARY:North Area Friday Social Club
+																							@ Woodhouse College – Foyer
+DTSTAMP:20190615T134000Z
+DTSTART:20190607T183000Z
+DTEND:20190607T213000Z
+DESCRIPTION:FRIDAY SOCIAL CLUB Woodhouse College – Foyer 7.30 – 10.30 pm Socialise with friends playing a range of table top games. For more information contact Kuntesh\: social-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:da304467-756d-4c2a-8513-b69533f400ac
+SUMMARY:Enabling Sports & Social Club
+																							@ Preston Manor High School
+DTSTAMP:20190615T134000Z
+DTSTART:20190607T190000Z
+DTEND:20190607T210000Z
+DESCRIPTION:Check out our video\:
+END:VEVENT
+BEGIN:VEVENT
+UID:509e50b0-621e-47b1-a4d3-429ab6bd3427
 SUMMARY:FunSkool, NWACAS and Communicate
-											
-												North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												North Area Saturday Cultural Activities
-DTSTAMP:20190615T131600Z
+																							@ Avanti House Primary School
+DTSTAMP:20190615T134000Z
 DTSTART:20190608T081500Z
 DTEND:20190608T113000Z
-DESCRIPTION: SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.orgSATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.orgSATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]
+DESCRIPTION: 
 END:VEVENT
 BEGIN:VEVENT
-UID:7108ac05-4736-4afd-a93c-e048987154af
+UID:b75089f4-09f9-4dd2-885a-bc088b486287
+SUMMARY:North Area Saturday Gujarati School
+																							@ Woodhouse College – Main building
+DTSTAMP:20190615T134000Z
+DTSTART:20190608T083000Z
+DTEND:20190608T113000Z
+DESCRIPTION:SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:fb7987dd-bef5-4d77-acc5-0f451d10a161
+SUMMARY:North Area Saturday Yoga
+																							@ Woodhouse College – Canteen
+DTSTAMP:20190615T134000Z
+DTSTART:20190608T084500Z
+DTEND:20190608T101500Z
+DESCRIPTION:SATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:634c5851-1dab-4597-bf86-2eb8fb465c00
+SUMMARY:North Area Saturday BollyAerobics
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190608T090000Z
+DTEND:20190608T100000Z
+DESCRIPTION:SATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0dc12ba8-6c37-4bc6-9d1d-f737a49f8f56
+SUMMARY:North East Saturday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190608T090000Z
+DTEND:20190608T103000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:45cf401e-d9a9-4c14-ad65-5542406b3728
+SUMMARY:North Area Saturday Cultural Activities
+																							@ Woodhouse College - Main  Building
+DTSTAMP:20190615T134000Z
+DTSTART:20190608T103000Z
+DTEND:20190608T113000Z
+DESCRIPTION:SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:004dcde6-bcba-4745-bd4e-c8b1305be736
 SUMMARY:Ashta Prakari Puja
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												Snatra Pooja with Bhakti
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190609T060000Z
 DTEND:20190609T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]  Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:a1e771bb-e972-4d55-937b-dc4f392c8849
+UID:8379861d-4d51-4974-a5e0-10efdbbda28f
+SUMMARY:North East Sunday Yoga
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190609T080000Z
+DTEND:20190609T093000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:b17d4032-9a73-48c0-a3b2-f5f70730b729
+SUMMARY:North East Youth Club
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190609T080000Z
+DTEND:20190609T120000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:e7bf10fa-626b-4597-914a-acd05efd989a
+SUMMARY:Snatra Pooja with Bhakti
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190609T090000Z
+DTEND:20190609T113000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+END:VEVENT
+BEGIN:VEVENT
+UID:4fd3280b-cc7a-4b94-8ba1-09c2f10330e5
 SUMMARY:Ekta Mandal (Yoga)
-											
-												Ekta Mandal (Arts & Craft)
-											
-												North East Monday Yoga
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190610T093000Z
 DTEND:20190610T113000Z
-DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370Contact Details\: Vinaben Dhanani – 07970 426 370 Bijal Shah – 07887 390772 Mina Shah – 07904 728870 
+DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370
 END:VEVENT
 BEGIN:VEVENT
-UID:8d93e471-535a-4afd-b432-107f7d7fd512
+UID:ff8a2be4-2017-4929-b347-7b27cf057b19
+SUMMARY:Ekta Mandal (Arts & Craft)
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190610T120000Z
+DTEND:20190610T140000Z
+DESCRIPTION:Contact Details\: Vinaben Dhanani – 07970 426 370 Bijal Shah – 07887 390772 Mina Shah – 07904 728870
+END:VEVENT
+BEGIN:VEVENT
+UID:20faef69-a427-4d0b-b408-c4b0fd96f9cb
+SUMMARY:North East Monday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190610T180000Z
+DTEND:20190610T193000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:420b6101-f4a2-471a-b8f1-12141c6b85d8
 SUMMARY:North East Tuesday Club
-											
-												North East Tuesday Yoga
-											
-												East Area Yoga Class
-											
-												North East Keep Fit
-DTSTAMP:20190615T131600Z
+																							@ Oshwal House
+DTSTAMP:20190615T134000Z
 DTSTART:20190611T090000Z
 DTEND:20190611T123000Z
-DESCRIPTION:Tuesday Club – Play games, cards and have fun! Yoga is an ancient form of exercise which focuses on mind, body and soul. It also focuses on strength, flexibility and breathing to boost physical and mental wellbeing. This is open to all ages and[...]Stay healthy with our weekly exercises classes
+DESCRIPTION:Tuesday Club – Play games, cards and have fun!
 END:VEVENT
 BEGIN:VEVENT
-UID:bab3df49-e387-479b-82ad-124f3a683d11
+UID:cc61986f-2015-4c1f-815c-aa061650e8a7
+SUMMARY:North East Tuesday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190611T180000Z
+DTEND:20190611T193000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:3a7f7307-8700-48d8-9e19-0d8b1934553b
+SUMMARY:East Area Yoga Class
+DTSTAMP:20190615T134000Z
+DTSTART:20190611T190000Z
+DTEND:20190611T200000Z
+DESCRIPTION:Yoga is an ancient form of exercise which focuses on mind, body and soul. It also focuses on strength, flexibility and breathing to boost physical and mental wellbeing. This is open to all ages and[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:685b1020-e2f8-4f48-b094-e9e9eea1ee9e
+SUMMARY:North East Keep Fit
+																							@ Trinity at Bowes Methodist Church
+DTSTAMP:20190615T134000Z
+DTSTART:20190611T190000Z
+DTEND:20190611T200000Z
+DESCRIPTION:Stay healthy with our weekly exercises classes
+END:VEVENT
+BEGIN:VEVENT
+UID:b9224fbe-f5a4-491c-8fa4-6f181e283c09
 SUMMARY:North East Zumba Class
-DTSTAMP:20190615T131600Z
+																							@ Ruth Winston Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190612T180000Z
 DTEND:20190612T190000Z
 DESCRIPTION: 
 END:VEVENT
 BEGIN:VEVENT
-UID:5d3c1852-af3a-4e4c-8da9-a447840ca8ba
+UID:0c6b803a-e05e-4ea8-b448-5286e325d95a
 SUMMARY:Ekta Mandal (Yoga)
-											
-												East Area Thursday Club
-											
-												NW – Weekly Bridge
-											
-												NW Weekly Bhukhar
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190613T093000Z
 DTEND:20190613T113000Z
-DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370Thursday club is formed to get our elders out and have few hours to meet others and mingle with others. There are activities they can do which will help them towards a healthy lifestyle. We[...]We have started Bridge at Ekta Centre with more than 30 people coming to enjoy the game on Thursday evenings at Ekta centre and the feedback so far has been very positive. The enthusiasm of[...]This is a Weekly event every Thursday! Contact Details\: Mahendrabhai Chandaria – 07714 712 713
+DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370
 END:VEVENT
 BEGIN:VEVENT
-UID:75f61e6b-63fc-49b7-9d86-668fcf721ddd
+UID:14e500b6-e248-42f1-8499-162a1171e4ad
+SUMMARY:East Area Thursday Club
+DTSTAMP:20190615T134000Z
+DTSTART:20190613T113000Z
+DTEND:20190613T133000Z
+DESCRIPTION:Thursday club is formed to get our elders out and have few hours to meet others and mingle with others. There are activities they can do which will help them towards a healthy lifestyle. We[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:c459b677-76d3-472e-a2d5-bda2a524ec26
+SUMMARY:NW – Weekly Bridge
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190613T184500Z
+DTEND:20190613T213000Z
+DESCRIPTION:We have started Bridge at Ekta Centre with more than 30 people coming to enjoy the game on Thursday evenings at Ekta centre and the feedback so far has been very positive. The enthusiasm of[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:19774a30-89a4-44d2-b348-47042c7ce3b6
+SUMMARY:NW Weekly Bhukhar
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190613T184500Z
+DTEND:20190613T213000Z
+DESCRIPTION:This is a Weekly event every Thursday! Contact Details\: Mahendrabhai Chandaria – 07714 712 713
+END:VEVENT
+BEGIN:VEVENT
+UID:1ba16da4-4f2a-48fe-b2f4-90ff5a0e7b78
 SUMMARY:Anand Yatra 2019
-											
-												North Area Friday Youth Club
-											
-												North Area Friday Yoga
-											
-												North Area Friday Social Club
-DTSTAMP:20190615T131600Z
+DTSTAMP:20190615T134000Z
 DTSTART:20190614T070000Z
 DTEND:20190614T133000Z
-DESCRIPTION:Anand Yatra is a regular program for the senior members of our community, which takes place every Friday morning, apart from the Festival days and the winter months. The regular activities include various Poojas in[...]6-8pm Under 12s 8-10pm Over 12s Get active, play games and make new friends. For more information contact Rakhee\: yc.north@oshwal.orgFRIDAY YOGA Woodhouse College – Dance Studio 7-8pm Suitable for all levels ages 16+. For more information contact Simran\: activities-n@oshwal.orgFRIDAY SOCIAL CLUB Woodhouse College – Foyer 7.30 – 10.30 pm Socialise with friends playing a range of table top games. For more information contact Kuntesh\: social-n@oshwal.org
+DESCRIPTION:Anand Yatra is a regular program for the senior members of our community, which takes place every Friday morning, apart from the Festival days and the winter months. The regular activities include various Poojas in[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:637f1257-f233-4575-b36b-e43bd17bb6ca
+UID:2922ef02-2430-4a9c-a623-f897528c9e8f
+SUMMARY:North Area Friday Youth Club
+																							@ Woodhouse College - Sports Hall
+DTSTAMP:20190615T134000Z
+DTSTART:20190614T170000Z
+DTEND:20190614T210000Z
+DESCRIPTION:6-8pm Under 12s 8-10pm Over 12s Get active, play games and make new friends. For more information contact Rakhee\: yc.north@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed94902-67a9-448e-9876-9403ec9ae4e1
+SUMMARY:North Area Friday Yoga
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190614T180000Z
+DTEND:20190614T190000Z
+DESCRIPTION:FRIDAY YOGA Woodhouse College – Dance Studio 7-8pm Suitable for all levels ages 16+. For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:c3acf30f-fa28-478c-9bab-105c64f615c5
+SUMMARY:North Area Friday Social Club
+																							@ Woodhouse College – Foyer
+DTSTAMP:20190615T134000Z
+DTSTART:20190614T183000Z
+DTEND:20190614T213000Z
+DESCRIPTION:FRIDAY SOCIAL CLUB Woodhouse College – Foyer 7.30 – 10.30 pm Socialise with friends playing a range of table top games. For more information contact Kuntesh\: social-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:50a492fd-89f8-435f-8ebb-167498b2f3fd
 SUMMARY:FunSkool, NWACAS and Communicate
-											
-												North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												North Area Saturday Cultural Activities
-											
-												NW Whist Drive (Chokdi)
-DTSTAMP:20190615T131600Z
+																							@ Avanti House Primary School
+DTSTAMP:20190615T134000Z
 DTSTART:20190615T081500Z
 DTEND:20190615T113000Z
-DESCRIPTION: SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.orgSATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.orgSATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]Contact Details\: Premharbhai – 07961 048 465 Surekhaben – 07410 446 789 Vinaben Dhanani – 07970 426 370 Schedule for the event\: 7\:00pm to 7\:45pm – Dinner 8\:00pm to 10\:00pm – Games 10\:00pm to 10\:30pm[...]
+DESCRIPTION: 
 END:VEVENT
 BEGIN:VEVENT
-UID:d9c8d033-f2fc-41ec-a8eb-82e58b247ca3
+UID:36f54c20-735f-42f3-a954-e95a7e1be677
+SUMMARY:North Area Saturday Gujarati School
+																							@ Woodhouse College – Main building
+DTSTAMP:20190615T134000Z
+DTSTART:20190615T083000Z
+DTEND:20190615T113000Z
+DESCRIPTION:SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f760273f-760b-48e1-89cc-cd8bc2c83d3c
+SUMMARY:North Area Saturday Yoga
+																							@ Woodhouse College – Canteen
+DTSTAMP:20190615T134000Z
+DTSTART:20190615T084500Z
+DTEND:20190615T101500Z
+DESCRIPTION:SATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3dd078-3458-4289-9d9b-ba4196683f12
+SUMMARY:North Area Saturday BollyAerobics
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190615T090000Z
+DTEND:20190615T100000Z
+DESCRIPTION:SATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:86ca0578-54b7-410f-ab56-49d9f4bcbc30
+SUMMARY:North East Saturday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190615T090000Z
+DTEND:20190615T103000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:457e0701-0272-4383-81af-07d22efc7c98
+SUMMARY:North Area Saturday Cultural Activities
+																							@ Woodhouse College - Main  Building
+DTSTAMP:20190615T134000Z
+DTSTART:20190615T103000Z
+DTEND:20190615T113000Z
+DESCRIPTION:SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:718dcfdc-7b4b-41e2-9fba-593ea1ba48d6
+SUMMARY:NW Whist Drive (Chokdi)
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190615T180000Z
+DTEND:20190615T213000Z
+DESCRIPTION:Contact Details\: Premharbhai – 07961 048 465 Surekhaben – 07410 446 789 Vinaben Dhanani – 07970 426 370 Schedule for the event\: 7\:00pm to 7\:45pm – Dinner 8\:00pm to 10\:00pm – Games 10\:00pm to 10\:30pm[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:923ad23f-6bea-4241-8484-89961c75a2fc
 SUMMARY:Ashta Prakari Puja
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												SAS Racquets & Kids Club
-											
-												Snatra Pooja with Bhakti
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190616T060000Z
 DTEND:20190616T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]   Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:1af39603-65ab-4acd-80d3-82eb996c3e16
+UID:db250f60-ee4e-42fc-aea8-1408335e4699
+SUMMARY:North East Sunday Yoga
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190616T080000Z
+DTEND:20190616T093000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c90b1a-90ca-44b4-a155-194d018af76f
+SUMMARY:North East Youth Club
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190616T080000Z
+DTEND:20190616T120000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:bd3bf3ad-1e20-410b-9363-90257c374699
+SUMMARY:SAS Racquets & Kids Club
+DTSTAMP:20190615T134000Z
+DTSTART:20190616T090000Z
+DTEND:20190616T103000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:871e0f23-1fc4-495e-b6dd-6fa2e294f9b8
+SUMMARY:Snatra Pooja with Bhakti
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190616T090000Z
+DTEND:20190616T113000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9280fb2-7003-4423-ac15-446d005238eb
 SUMMARY:Ekta Mandal (Yoga)
-											
-												Ekta Mandal (Arts & Craft)
-											
-												North East Monday Yoga
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190617T093000Z
 DTEND:20190617T113000Z
-DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370Contact Details\: Vinaben Dhanani – 07970 426 370 Bijal Shah – 07887 390772 Mina Shah – 07904 728870 
+DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370
 END:VEVENT
 BEGIN:VEVENT
-UID:09f04a7a-1716-4811-bed5-0f3e2cde6af8
+UID:a714c659-bdad-495e-89fd-64af19f37fdd
+SUMMARY:Ekta Mandal (Arts & Craft)
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190617T120000Z
+DTEND:20190617T140000Z
+DESCRIPTION:Contact Details\: Vinaben Dhanani – 07970 426 370 Bijal Shah – 07887 390772 Mina Shah – 07904 728870
+END:VEVENT
+BEGIN:VEVENT
+UID:41723ff5-6bd4-4bc8-801d-e556fec5208e
+SUMMARY:North East Monday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190617T180000Z
+DTEND:20190617T193000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd37d93-f9e6-43f5-89c7-9dc4fbe01511
 SUMMARY:North East Tuesday Club
-											
-												North East Tuesday Yoga
-											
-												East Area Yoga Class
-											
-												North East Keep Fit
-DTSTAMP:20190615T131600Z
+																							@ Oshwal House
+DTSTAMP:20190615T134000Z
 DTSTART:20190618T090000Z
 DTEND:20190618T123000Z
-DESCRIPTION:Tuesday Club – Play games, cards and have fun! Yoga is an ancient form of exercise which focuses on mind, body and soul. It also focuses on strength, flexibility and breathing to boost physical and mental wellbeing. This is open to all ages and[...]Stay healthy with our weekly exercises classes
+DESCRIPTION:Tuesday Club – Play games, cards and have fun!
 END:VEVENT
 BEGIN:VEVENT
-UID:4ba4e502-3b7c-4b53-acee-ef9535a3df16
+UID:052af4cf-8695-43ac-96e8-eca74f6f4510
+SUMMARY:North East Tuesday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190618T180000Z
+DTEND:20190618T193000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:b227481d-df7d-4d88-b5af-a0f96003a123
+SUMMARY:East Area Yoga Class
+DTSTAMP:20190615T134000Z
+DTSTART:20190618T190000Z
+DTEND:20190618T200000Z
+DESCRIPTION:Yoga is an ancient form of exercise which focuses on mind, body and soul. It also focuses on strength, flexibility and breathing to boost physical and mental wellbeing. This is open to all ages and[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:ee9e78df-dcbc-4621-bc6a-1c16bf932a08
+SUMMARY:North East Keep Fit
+																							@ Trinity at Bowes Methodist Church
+DTSTAMP:20190615T134000Z
+DTSTART:20190618T190000Z
+DTEND:20190618T200000Z
+DESCRIPTION:Stay healthy with our weekly exercises classes
+END:VEVENT
+BEGIN:VEVENT
+UID:51ffc707-5973-469a-8bd9-92252a5d2b09
 SUMMARY:NW Family Social Evening
-											
-												North East Zumba Class
-											
-												South Social Wednesday Wellbeing
-DTSTAMP:20190615T131600Z
+DTSTAMP:20190615T134000Z
 DTSTART:20190619T173000Z
 DTEND:20190619T213000Z
-DESCRIPTION:Time\: Dinner – 6\:30 to 8\:30 and finish at 10\:30pm £7.00 for members and £10.00 for non-members £5.00 for members 5 – 16 and £7.50 for non-members Free for under 5’s Book by 17th June[...]  
+DESCRIPTION:Time\: Dinner – 6\:30 to 8\:30 and finish at 10\:30pm £7.00 for members and £10.00 for non-members £5.00 for members 5 – 16 and £7.50 for non-members Free for under 5’s Book by 17th June[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:626e86bc-b7b0-440a-b087-437277729199
+UID:c04affc8-5c38-4de4-b91e-58eb52985f39
+SUMMARY:North East Zumba Class
+																							@ Ruth Winston Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190619T180000Z
+DTEND:20190619T190000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:127a2d9b-0a21-46aa-afb6-9a9820fc2134
+SUMMARY:South Social Wednesday Wellbeing
+																							@ Oshwal Mahajanwadi
+DTSTAMP:20190615T134000Z
+DTSTART:20190619T190000Z
+DTEND:20190619T203000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:e8165aa6-9786-46e0-87c8-c2ef1e8f28c6
 SUMMARY:Ekta Mandal (Yoga)
-											
-												East Area Thursday Club
-											
-												NW – Weekly Bridge
-											
-												NW Weekly Bhukhar
-											
-												Key to Happiness – The Jain Way
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190620T093000Z
 DTEND:20190620T113000Z
-DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370Thursday club is formed to get our elders out and have few hours to meet others and mingle with others. There are activities they can do which will help them towards a healthy lifestyle. We[...]We have started Bridge at Ekta Centre with more than 30 people coming to enjoy the game on Thursday evenings at Ekta centre and the feedback so far has been very positive. The enthusiasm of[...]This is a Weekly event every Thursday! Contact Details\: Mahendrabhai Chandaria – 07714 712 713Key to Happiness- The Jain Way To Improve our understanding of Jain Dharma and its role in our search for happiness In association with Institute of Jainology we are embarking a series of educational talks[...]
+DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370
 END:VEVENT
 BEGIN:VEVENT
-UID:1cfc8b4a-cb1a-4fe8-84af-4ea13f3ed27a
+UID:7fa0993b-9ef5-43d8-ba27-0ab6fd99e791
+SUMMARY:East Area Thursday Club
+DTSTAMP:20190615T134000Z
+DTSTART:20190620T113000Z
+DTEND:20190620T133000Z
+DESCRIPTION:Thursday club is formed to get our elders out and have few hours to meet others and mingle with others. There are activities they can do which will help them towards a healthy lifestyle. We[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3ba6b4-600d-4b98-813e-8abfaa0046fd
+SUMMARY:NW – Weekly Bridge
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190620T184500Z
+DTEND:20190620T213000Z
+DESCRIPTION:We have started Bridge at Ekta Centre with more than 30 people coming to enjoy the game on Thursday evenings at Ekta centre and the feedback so far has been very positive. The enthusiasm of[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:abb66e96-bc96-4812-9c61-8cd0d63ca443
+SUMMARY:NW Weekly Bhukhar
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190620T184500Z
+DTEND:20190620T213000Z
+DESCRIPTION:This is a Weekly event every Thursday! Contact Details\: Mahendrabhai Chandaria – 07714 712 713
+END:VEVENT
+BEGIN:VEVENT
+UID:5ff75cd6-1314-448a-bd4c-cc88462ccd04
+SUMMARY:Key to Happiness – The Jain Way
+																							@ Committee Room, Oshwal House
+DTSTAMP:20190615T134000Z
+DTSTART:20190620T190000Z
+DTEND:20190620T203000Z
+DESCRIPTION:Key to Happiness- The Jain Way To Improve our understanding of Jain Dharma and its role in our search for happiness In association with Institute of Jainology we are embarking a series of educational talks[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:adb3c06c-f05f-425f-b320-de853a0e35f9
 SUMMARY:Anand Yatra 2019
-											
-												North Area Friday Youth Club
-											
-												North Area Friday Yoga
-											
-												North Area Friday Social Club
-											
-												Enabling Sports & Social Club
-DTSTAMP:20190615T131600Z
+DTSTAMP:20190615T134000Z
 DTSTART:20190621T070000Z
 DTEND:20190621T133000Z
-DESCRIPTION:Anand Yatra is a regular program for the senior members of our community, which takes place every Friday morning, apart from the Festival days and the winter months. The regular activities include various Poojas in[...]6-8pm Under 12s 8-10pm Over 12s Get active, play games and make new friends. For more information contact Rakhee\: yc.north@oshwal.orgFRIDAY YOGA Woodhouse College – Dance Studio 7-8pm Suitable for all levels ages 16+. For more information contact Simran\: activities-n@oshwal.orgFRIDAY SOCIAL CLUB Woodhouse College – Foyer 7.30 – 10.30 pm Socialise with friends playing a range of table top games. For more information contact Kuntesh\: social-n@oshwal.orgCheck out our video\:
+DESCRIPTION:Anand Yatra is a regular program for the senior members of our community, which takes place every Friday morning, apart from the Festival days and the winter months. The regular activities include various Poojas in[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:ce00ff97-78ba-49d6-b0fa-6666f6c978f5
+UID:8f4f0181-3ba5-44a2-af83-e4ca5ea658ce
+SUMMARY:North Area Friday Youth Club
+																							@ Woodhouse College - Sports Hall
+DTSTAMP:20190615T134000Z
+DTSTART:20190621T170000Z
+DTEND:20190621T210000Z
+DESCRIPTION:6-8pm Under 12s 8-10pm Over 12s Get active, play games and make new friends. For more information contact Rakhee\: yc.north@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:bab35921-336e-489f-8a2d-5b46eec3fe5b
+SUMMARY:North Area Friday Yoga
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190621T180000Z
+DTEND:20190621T190000Z
+DESCRIPTION:FRIDAY YOGA Woodhouse College – Dance Studio 7-8pm Suitable for all levels ages 16+. For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:e2f6fe14-f8d3-4735-a10b-c1ef96506a14
+SUMMARY:North Area Friday Social Club
+																							@ Woodhouse College – Foyer
+DTSTAMP:20190615T134000Z
+DTSTART:20190621T183000Z
+DTEND:20190621T213000Z
+DESCRIPTION:FRIDAY SOCIAL CLUB Woodhouse College – Foyer 7.30 – 10.30 pm Socialise with friends playing a range of table top games. For more information contact Kuntesh\: social-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:bf488078-bf5e-4fd5-b52d-585228eca05b
+SUMMARY:Enabling Sports & Social Club
+																							@ Preston Manor High School
+DTSTAMP:20190615T134000Z
+DTSTART:20190621T190000Z
+DTEND:20190621T210000Z
+DESCRIPTION:Check out our video\:
+END:VEVENT
+BEGIN:VEVENT
+UID:97607da9-8844-4785-8476-8f252505e50d
 SUMMARY:FunSkool, NWACAS and Communicate
-											
-												North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												North Area Saturday Cultural Activities
-DTSTAMP:20190615T131600Z
+																							@ Avanti House Primary School
+DTSTAMP:20190615T134000Z
 DTSTART:20190622T081500Z
 DTEND:20190622T113000Z
-DESCRIPTION: SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.orgSATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.orgSATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]
+DESCRIPTION: 
 END:VEVENT
 BEGIN:VEVENT
-UID:29e171d5-7723-4867-bf2d-159163f4c1aa
+UID:8956ff28-71d0-48e6-82c1-e9bf24e29124
+SUMMARY:North Area Saturday Gujarati School
+																							@ Woodhouse College – Main building
+DTSTAMP:20190615T134000Z
+DTSTART:20190622T083000Z
+DTEND:20190622T113000Z
+DESCRIPTION:SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:cae3f7d4-e225-4fde-9721-de37c808d49b
+SUMMARY:North Area Saturday Yoga
+																							@ Woodhouse College – Canteen
+DTSTAMP:20190615T134000Z
+DTSTART:20190622T084500Z
+DTEND:20190622T101500Z
+DESCRIPTION:SATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:bd778c60-5283-4224-8707-6dc0c1f0a1a2
+SUMMARY:North Area Saturday BollyAerobics
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190622T090000Z
+DTEND:20190622T100000Z
+DESCRIPTION:SATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:cf57fe81-67b4-4fe0-b36e-0aed71a15a1b
+SUMMARY:North East Saturday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190622T090000Z
+DTEND:20190622T103000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:36171e28-e3fd-4f00-a2ac-26adf41eb9c1
+SUMMARY:North Area Saturday Cultural Activities
+																							@ Woodhouse College - Main  Building
+DTSTAMP:20190615T134000Z
+DTSTART:20190622T103000Z
+DTEND:20190622T113000Z
+DESCRIPTION:SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:eab8097f-f0df-4119-ad2c-ee0cad01382c
 SUMMARY:Ashta Prakari Puja
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												Summer Bhukhar Competition 2019
-											
-												Snatra Pooja with Bhakti
-											
-												Chokdi Tournament 2019 and Chai
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190623T060000Z
 DTEND:20190623T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]  For competition entries and further details please contact\: Mahendra Chandaria 07714 712713 Ajit Shah 07737 418603 Uttamchand Shah 07909 513362Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377. 
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:c6ed3730-42ec-46f1-9e3d-c5a34535bce4
+UID:6dbf46ac-5fbd-41ca-9e91-a7920fb68da5
+SUMMARY:North East Sunday Yoga
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190623T080000Z
+DTEND:20190623T093000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:63f0ab9f-a28a-4ce3-897b-c25a070aec4e
+SUMMARY:North East Youth Club
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190623T080000Z
+DTEND:20190623T120000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:db559895-c29c-4db9-a3d2-cec5c5200f8a
+SUMMARY:Summer Bhukhar Competition 2019
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190623T080000Z
+DTEND:20190623T163000Z
+DESCRIPTION:For competition entries and further details please contact\: Mahendra Chandaria 07714 712713 Ajit Shah 07737 418603 Uttamchand Shah 07909 513362
+END:VEVENT
+BEGIN:VEVENT
+UID:efddfd7b-49e6-4427-ac1b-6572c3a7a4a3
+SUMMARY:Snatra Pooja with Bhakti
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190623T090000Z
+DTEND:20190623T113000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+END:VEVENT
+BEGIN:VEVENT
+UID:8ddc001f-4d24-493a-b2ed-b672de17da3e
+SUMMARY:Chokdi Tournament 2019 and Chai
+																							@ Coleman Neighbourhood Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190623T143000Z
+DTEND:20190623T183000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:4f42d8c4-2969-4abb-a1ec-eb448bd8abcf
 SUMMARY:Ekta Mandal (Yoga)
-											
-												Ekta Mandal (Arts & Craft)
-											
-												North East Monday Yoga
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190624T093000Z
 DTEND:20190624T113000Z
-DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370Contact Details\: Vinaben Dhanani – 07970 426 370 Bijal Shah – 07887 390772 Mina Shah – 07904 728870 
+DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370
 END:VEVENT
 BEGIN:VEVENT
-UID:644254a2-932b-4fc5-b58c-8c8e2584623f
+UID:15369510-01ee-4b74-b561-a1948bd9b923
+SUMMARY:Ekta Mandal (Arts & Craft)
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190624T120000Z
+DTEND:20190624T140000Z
+DESCRIPTION:Contact Details\: Vinaben Dhanani – 07970 426 370 Bijal Shah – 07887 390772 Mina Shah – 07904 728870
+END:VEVENT
+BEGIN:VEVENT
+UID:495718e6-d12d-45ed-9423-c8cda6f12b11
+SUMMARY:North East Monday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190624T180000Z
+DTEND:20190624T193000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:52de9c91-998b-4b70-9f5f-8a590ef48fda
 SUMMARY:North East Tuesday Club
-											
-												North East Tuesday Yoga
-											
-												East Area Yoga Class
-											
-												North East Keep Fit
-DTSTAMP:20190615T131600Z
+																							@ Oshwal House
+DTSTAMP:20190615T134000Z
 DTSTART:20190625T090000Z
 DTEND:20190625T123000Z
-DESCRIPTION:Tuesday Club – Play games, cards and have fun! Yoga is an ancient form of exercise which focuses on mind, body and soul. It also focuses on strength, flexibility and breathing to boost physical and mental wellbeing. This is open to all ages and[...]Stay healthy with our weekly exercises classes
+DESCRIPTION:Tuesday Club – Play games, cards and have fun!
 END:VEVENT
 BEGIN:VEVENT
-UID:276d0277-2a7d-48e8-9d63-fa897920b81e
+UID:16656a1c-e181-46b1-9e7d-34bdac40945e
+SUMMARY:North East Tuesday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190625T180000Z
+DTEND:20190625T193000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e5f116-9c32-4184-871d-d738136fa483
+SUMMARY:East Area Yoga Class
+DTSTAMP:20190615T134000Z
+DTSTART:20190625T190000Z
+DTEND:20190625T200000Z
+DESCRIPTION:Yoga is an ancient form of exercise which focuses on mind, body and soul. It also focuses on strength, flexibility and breathing to boost physical and mental wellbeing. This is open to all ages and[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba8803d-4ba8-41f9-8158-1fd2e0368ce7
+SUMMARY:North East Keep Fit
+																							@ Trinity at Bowes Methodist Church
+DTSTAMP:20190615T134000Z
+DTSTART:20190625T190000Z
+DTEND:20190625T200000Z
+DESCRIPTION:Stay healthy with our weekly exercises classes
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c08cc1-735d-48b7-8c3a-4f807222b40b
 SUMMARY:North East Zumba Class
-											
-												Bhakti Sandhya 2019
-											
-												Blood Donation Awareness Seminar
-DTSTAMP:20190615T131600Z
+																							@ Ruth Winston Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190626T180000Z
 DTEND:20190626T190000Z
-DESCRIPTION:  We need donors from all communities and ethnic backgrounds to donate blood so we can meet the needs of all patients in England now and in the years to come. Black, Asian and minority ethnic[...]
+DESCRIPTION: 
 END:VEVENT
 BEGIN:VEVENT
-UID:4d786d1b-8613-4e76-b3af-30cfee46e985
+UID:9ca0defd-da39-49ee-835e-14bfe0f556e6
+SUMMARY:Bhakti Sandhya 2019
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190626T184500Z
+DTEND:20190626T210000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:a0db08e9-4fb7-400e-9e3f-cdd3af295bf6
+SUMMARY:Blood Donation Awareness Seminar
+																							@ Oshwal Mahajanwadi
+DTSTAMP:20190615T134000Z
+DTSTART:20190626T190000Z
+DTEND:20190626T203000Z
+DESCRIPTION:We need donors from all communities and ethnic backgrounds to donate blood so we can meet the needs of all patients in England now and in the years to come. Black, Asian and minority ethnic[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:d543a66d-77a6-4064-bf1e-4a4479ea4f14
 SUMMARY:Ekta Mandal (Yoga)
-											
-												East Area Thursday Club
-											
-												NW – Weekly Bridge
-											
-												NW Weekly Bhukhar
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190627T093000Z
 DTEND:20190627T113000Z
-DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370Thursday club is formed to get our elders out and have few hours to meet others and mingle with others. There are activities they can do which will help them towards a healthy lifestyle. We[...]We have started Bridge at Ekta Centre with more than 30 people coming to enjoy the game on Thursday evenings at Ekta centre and the feedback so far has been very positive. The enthusiasm of[...]This is a Weekly event every Thursday! Contact Details\: Mahendrabhai Chandaria – 07714 712 713
+DESCRIPTION:Contact Details\: Mahendrabhai Chandaria – 07714 712 713 Vinaben Dhanani – 07970 426 370
 END:VEVENT
 BEGIN:VEVENT
-UID:b6d2333d-6bcb-4f2c-ad47-4676ade57105
+UID:8c2363f7-df8d-40a6-8e2f-3cf8fc91e53c
+SUMMARY:East Area Thursday Club
+DTSTAMP:20190615T134000Z
+DTSTART:20190627T113000Z
+DTEND:20190627T133000Z
+DESCRIPTION:Thursday club is formed to get our elders out and have few hours to meet others and mingle with others. There are activities they can do which will help them towards a healthy lifestyle. We[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:17fb104b-80a2-4ed6-8ec7-26967354d623
+SUMMARY:NW – Weekly Bridge
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190627T184500Z
+DTEND:20190627T213000Z
+DESCRIPTION:We have started Bridge at Ekta Centre with more than 30 people coming to enjoy the game on Thursday evenings at Ekta centre and the feedback so far has been very positive. The enthusiasm of[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:a9bc7fa0-d88d-4836-8849-7ca56341b8b6
+SUMMARY:NW Weekly Bhukhar
+																							@ Oshwal Ekta Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190627T184500Z
+DTEND:20190627T213000Z
+DESCRIPTION:This is a Weekly event every Thursday! Contact Details\: Mahendrabhai Chandaria – 07714 712 713
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1e3f9a-6f95-4084-8f41-a3ee923cd01a
 SUMMARY:Anand Yatra 2019
-											
-												North Area Friday Youth Club
-											
-												North Area Friday Yoga
-											
-												North Area Friday Social Club
-DTSTAMP:20190615T131600Z
+DTSTAMP:20190615T134000Z
 DTSTART:20190628T070000Z
 DTEND:20190628T133000Z
-DESCRIPTION:Anand Yatra is a regular program for the senior members of our community, which takes place every Friday morning, apart from the Festival days and the winter months. The regular activities include various Poojas in[...]6-8pm Under 12s 8-10pm Over 12s Get active, play games and make new friends. For more information contact Rakhee\: yc.north@oshwal.orgFRIDAY YOGA Woodhouse College – Dance Studio 7-8pm Suitable for all levels ages 16+. For more information contact Simran\: activities-n@oshwal.orgFRIDAY SOCIAL CLUB Woodhouse College – Foyer 7.30 – 10.30 pm Socialise with friends playing a range of table top games. For more information contact Kuntesh\: social-n@oshwal.org
+DESCRIPTION:Anand Yatra is a regular program for the senior members of our community, which takes place every Friday morning, apart from the Festival days and the winter months. The regular activities include various Poojas in[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:febc9eab-b995-4e47-9b52-968d96f5664d
+UID:26d70a9a-0d45-4e0d-87ad-4838cde1d92b
+SUMMARY:North Area Friday Youth Club
+																							@ Woodhouse College - Sports Hall
+DTSTAMP:20190615T134000Z
+DTSTART:20190628T170000Z
+DTEND:20190628T210000Z
+DESCRIPTION:6-8pm Under 12s 8-10pm Over 12s Get active, play games and make new friends. For more information contact Rakhee\: yc.north@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c52cdb-fca7-413d-a7df-1821b71e5d6c
+SUMMARY:North Area Friday Yoga
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190628T180000Z
+DTEND:20190628T190000Z
+DESCRIPTION:FRIDAY YOGA Woodhouse College – Dance Studio 7-8pm Suitable for all levels ages 16+. For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:207da64b-a74d-45f4-a871-9dc962f020d1
+SUMMARY:North Area Friday Social Club
+																							@ Woodhouse College – Foyer
+DTSTAMP:20190615T134000Z
+DTSTART:20190628T183000Z
+DTEND:20190628T213000Z
+DESCRIPTION:FRIDAY SOCIAL CLUB Woodhouse College – Foyer 7.30 – 10.30 pm Socialise with friends playing a range of table top games. For more information contact Kuntesh\: social-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:46499854-faf2-41a5-a1d9-4855c356dc4e
 SUMMARY:FunSkool, NWACAS and Communicate
-											
-												North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												North Area Saturday Cultural Activities
-											
-												East Area Monthly Social Gathering
-DTSTAMP:20190615T131600Z
+																							@ Avanti House Primary School
+DTSTAMP:20190615T134000Z
 DTSTART:20190629T081500Z
 DTEND:20190629T113000Z
-DESCRIPTION: SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.orgSATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.orgSATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]A chance to meet up and enjoy dinner together with other activities. New ideas welcome and contact the office bearers. Please attend at the scheduled time so that we can proceed with activities on time.[...]
+DESCRIPTION: 
 END:VEVENT
 BEGIN:VEVENT
-UID:93d49668-6123-43d8-a613-26ae8cbaf6a4
+UID:6b759b18-57f9-479b-8a31-963f7bc8820c
+SUMMARY:North Area Saturday Gujarati School
+																							@ Woodhouse College – Main building
+DTSTAMP:20190615T134000Z
+DTSTART:20190629T083000Z
+DTEND:20190629T113000Z
+DESCRIPTION:SATURDAY GUJARATI SCHOOL Woodhouse College – Main building 9.30- 12.30 From ages 4+ (including adult classes) Free trial classes available. For more information contact Dipa/Kuntesh\: education-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a106b61f-f778-405b-a876-308ad01d8cb4
+SUMMARY:North Area Saturday Yoga
+																							@ Woodhouse College – Canteen
+DTSTAMP:20190615T134000Z
+DTSTART:20190629T084500Z
+DTEND:20190629T101500Z
+DESCRIPTION:SATURDAY YOGA Woodhouse College – Canteen 9.45 – 11.15am Simple gentle moves suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b8db6a7a-bcb1-4d8e-96c7-af0b4ec9fdcc
+SUMMARY:North Area Saturday BollyAerobics
+																							@ Woodhouse College - Dance Studio
+DTSTAMP:20190615T134000Z
+DTSTART:20190629T090000Z
+DTEND:20190629T100000Z
+DESCRIPTION:SATURDAY BOLLYAEROBICS Woodhouse College Dance Studio 10am to 11am Contemporary Bollywood moves fused with an aerobic workout. Suitable for all ages For more information contact Simran\: activities-n@oshwal.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b970bb5e-4394-4471-b036-1c079aa20fa2
+SUMMARY:North East Saturday Yoga
+DTSTAMP:20190615T134000Z
+DTSTART:20190629T090000Z
+DTEND:20190629T103000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:5982931c-fb22-49a5-93c0-e4346d4a5572
+SUMMARY:North Area Saturday Cultural Activities
+																							@ Woodhouse College - Main  Building
+DTSTAMP:20190615T134000Z
+DTSTART:20190629T103000Z
+DTEND:20190629T113000Z
+DESCRIPTION:SATURDAY CULTURAL ACTIVITIES (included for all that attend Gujarati school) from £170 per year. 11.30-12.30 Harmonium/ Tabla classes taught by professional teachers or for the younger children ages 3+ movement and music classes where they[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:880d06c6-7c70-445f-8812-36608e5e0cdb
+SUMMARY:East Area Monthly Social Gathering
+DTSTAMP:20190615T134000Z
+DTSTART:20190629T180000Z
+DTEND:20190629T210000Z
+DESCRIPTION:A chance to meet up and enjoy dinner together with other activities. New ideas welcome and contact the office bearers. Please attend at the scheduled time so that we can proceed with activities on time.[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:f87fdada-13d4-4aa2-992a-6597a1fc92d4
 SUMMARY:Ashta Prakari Puja
-											
-												Epping Forest Trek
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												SAS Racquets & Kids Club
-											
-												Snatra Pooja with Bhakti
-DTSTAMP:20190615T131600Z
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
 DTSTART:20190630T060000Z
 DTEND:20190630T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]Date\: Sunday 30th June 2019 Starting Point\: Chingford Plain Car Park, London E4 7AZ Start Time\: 08\:15 – 08\:30 am for warm up and arrival Map\: Please see attached Step into the summer with this[...]   Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:c20b21a1-6f98-4aa3-bf50-a0f4affbc4c4
+SUMMARY:Epping Forest Trek
+																							@ Chingford Plain Car Park
+DTSTAMP:20190615T134000Z
+DTSTART:20190630T073000Z
+DTEND:20190630T123000Z
+DESCRIPTION:Date\: Sunday 30th June 2019 Starting Point\: Chingford Plain Car Park, London E4 7AZ Start Time\: 08\:15 – 08\:30 am for warm up and arrival Map\: Please see attached Step into the summer with this[...]
+END:VEVENT
+BEGIN:VEVENT
+UID:575fedfd-913a-439b-93a4-3f1e2e4faf7d
+SUMMARY:North East Sunday Yoga
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190630T080000Z
+DTEND:20190630T093000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:ca11fbe9-ee95-4451-92ff-e614cf452699
+SUMMARY:North East Youth Club
+																							@ Alexandra Park School
+DTSTAMP:20190615T134000Z
+DTSTART:20190630T080000Z
+DTEND:20190630T120000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:afad3a37-c989-4fd2-8288-f87a8d1b42f2
+SUMMARY:SAS Racquets & Kids Club
+DTSTAMP:20190615T134000Z
+DTSTART:20190630T090000Z
+DTEND:20190630T103000Z
+DESCRIPTION: 
+END:VEVENT
+BEGIN:VEVENT
+UID:1e3c9db5-9604-4d52-97a1-00179f8eddc8
+SUMMARY:Snatra Pooja with Bhakti
+																							@ Oshwal Centre
+DTSTAMP:20190615T134000Z
+DTSTART:20190630T090000Z
+DTEND:20190630T113000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
 END:VEVENT
 END:VCALENDAR

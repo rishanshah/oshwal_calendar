@@ -33,27 +33,31 @@ exports.createIcs = function(categories){
         //console.log($(this).find('.ai1ec-event-time').text().split('@')[1]);
         //console.log($(this).find('.ai1ec-popover .ai1ec-popup-excerpt').text());
         var dateArr = $(this).find('.ai1ec-date a').attr('href').split('/')[5].replace('exact_date~','').split('-')
-        var timeOfEvent = $(this).find('.ai1ec-popover .ai1ec-event-time').text().split('@')[1]
-        var descriptionstr = $(this).find('.ai1ec-popover .ai1ec-popup-excerpt').text()
+        $(this).find('.ai1ec-popover ').each(function(i,elem){
+          var timeOfEvent = $(this).find('.ai1ec-event-time').text().split('@')[1]
+          var descriptionstr = $(this).find('.ai1ec-popup-excerpt').text()
 
 
-        if(timeOfEvent != undefined){
-          timeOfEvent = timeOfEvent.trim().split(' ')
-          //console.log(timeOfEvent[4].substring(0,2))
-          var startTime = timeOfEvent[0]+ timeOfEvent[1]
-          var endTime =  timeOfEvent[3]+ timeOfEvent[4].substring(0,2)
-          //console.log(amPm(startTime)[0],amPm(endTime));
+          if(timeOfEvent != undefined){
+            timeOfEvent = timeOfEvent.trim().split(' ')
+            //console.log(timeOfEvent[4].substring(0,2))
+            var startTime = timeOfEvent[0]+ timeOfEvent[1]
+            var endTime =  timeOfEvent[3]+ timeOfEvent[4].substring(0,2)
+            //console.log(amPm(startTime)[0],amPm(endTime));
 
-          eventsArr.push({
-            title: $(this).find('.ai1ec-event-title').text().trim(),
-            start: [dateArr[2],dateArr[1],dateArr[0],amPm(startTime)[0],amPm(startTime)[1]],
-            end: [dateArr[2],dateArr[1],dateArr[0],amPm(endTime)[0],amPm(endTime)[1]],
-            description:descriptionstr
-            })
+            eventsArr.push({
+              title: $(this).find('.ai1ec-popup-title').text().trim(),
+              start: [dateArr[2],dateArr[1],dateArr[0],amPm(startTime)[0],amPm(startTime)[1]],
+              end: [dateArr[2],dateArr[1],dateArr[0],amPm(endTime)[0],amPm(endTime)[1]],
+              description: descriptionstr
+              })
 
-        }
+          }
+
+      });
 
       })
+      console.log(eventsArr);
 
       ics.createEvents(eventsArr, (error,value) => {
         if(error){
