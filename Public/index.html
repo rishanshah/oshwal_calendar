@@ -10,7 +10,9 @@
 
 <body>
 
+<h1> Oshwal Calendar</h1>
 
+<h3>Please select below which regions you would like to subscribe to</h3>
 
 <div style = "margin-bottom:20px" class="form-group">
   <label class="form-checkbox">
@@ -107,13 +109,15 @@
             $.each($("input[type='checkbox']:checked"), function(){
                 favorite.push($(this).val());
             });
-            window.location.replace("webcal://localhost:3456/api/calendar/subscribe/"+favorite.join(","));
+            document.getElementById("link").textContent = "webcal://apricot-crumble-13119.herokuapp.com/calendar/subscribe/"+favorite.join(",")
+            window.location.replace("webcal://apricot-crumble-13119.herokuapp.com/calendar/subscribe/"+favorite.join(","));
+
         });
     });
 </script>
 
 <a download href= "webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe">Subscribe</a>
 
-<h1>Or you can copy paste the following link into your outlook calendar subscription</h1>
-<h5>webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe</h5>
+<h1>The above doesnt work with android devices, you can copy paste the following link into your outlook calendar subscription</h1>
+<h5 id = "link">webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe</h5>
 </body>
