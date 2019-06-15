@@ -5,12 +5,14 @@ const app = express();
 const ical = require('ical');
 const fs = require('fs')
 var calendar = ical.parseFile('./ics/calendar.ics');
-var calendarController = require('./calendarcontroller/calendar')
+var categories = ''
+var calendarController = require('./calendarcontroller/calendar');
 //console.log(calendar);
 
 app.get('/api/calendar/subscribe/:categories?', (req, res) => {
     const getData = new Promise(function(resolve,reject){
-      calendarController.createIcs(req.param.categories)
+      calendarController.createIcs(req.params.categories)
+      //console.log(req.params.categories);
       fs.watch(`${process.cwd()}/ics/calendar.ics`,(curr,prev) => {
         if(curr){
           resolve("success")

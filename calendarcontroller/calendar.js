@@ -1,13 +1,14 @@
 
 
-exports.createIcs = function(categories){
+var createIcs = function(categories){
   const cheerio = require('cheerio');
   const rp = require('request-promise');
   const { writeFileSync } = require('fs');
   const ics = require('ics');
   const convertTime = require('convert-time');
   const fs = require('fs')
-  const options = {
+  console.log(categories);
+  var options = {
 
     uri:"https://www.oshwal.org.uk/calendar/action~month/cat_ids~"+categories+"/request_format~json/",
     transform: function(body){
@@ -15,7 +16,7 @@ exports.createIcs = function(categories){
     }
 
   };
-
+  console.log(options.uri);
   function amPm(time){
     var timeArr = convertTime(time).split(':');
     return timeArr
@@ -57,7 +58,7 @@ exports.createIcs = function(categories){
       });
 
       })
-      console.log(eventsArr);
+      //console.log(eventsArr);
 
       ics.createEvents(eventsArr, (error,value) => {
         if(error){
@@ -78,3 +79,5 @@ exports.createIcs = function(categories){
 
     });
 }
+
+module.exports.createIcs = createIcs
