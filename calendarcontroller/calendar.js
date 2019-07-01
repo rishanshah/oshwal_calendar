@@ -47,9 +47,11 @@ var createIcs = function(categories){
             //console.log(amPm(startTime)[0],amPm(endTime));
 
             eventsArr.push({
+              productId: 'Oshwal',
+              startType: 'local',
               title: $(this).find('.ai1ec-popup-title').text().trim(),
-              start: [dateArr[2],dateArr[1],dateArr[0],amPm(startTime)[0],amPm(startTime)[1]],
-              end: [dateArr[2],dateArr[1],dateArr[0],amPm(endTime)[0],amPm(endTime)[1]],
+              start: [dateArr[2],dateArr[1],dateArr[0],parseInt(amPm(startTime)[0]),parseInt(amPm(startTime)[1])],
+              end: [dateArr[2],dateArr[1],dateArr[0],parseInt(amPm(endTime)[0]),parseInt(amPm(endTime)[1])],
               description: descriptionstr
               })
 

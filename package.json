@@ -13,7 +13,7 @@
     "convert-time": "^0.3.0",
     "express": "^4.16.2",
     "ical": "^0.6.0",
-    "ics": "^2.4.1",
+    "ics": "^2.13.1",
     "request-promise": "^4.2.2"
   }
 }
