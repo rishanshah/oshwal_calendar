@@ -1,104 +1,95 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:adamgibbons/ics
+PRODID:Oshwal
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4eb02054-8e4a-4543-a595-b4edbb177fc0
-SUMMARY:Ashta Prakari Puja
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190602T060000Z
-DTEND:20190602T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
+UID:407b805b-96fc-42d5-9945-1f2bf3c7f7ef
+SUMMARY:Ashta Prakari Puja\n																							@ Oshwal Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190707T070000Z
+DTEND:20190707T090000Z
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help
+	 of Jayeshbhai and Varshaben. Everyone is welcome. For any further informa
+	tion please contact Varshaben via email varsha.shah@oshwal.org or phone 07
+	710 230 377.[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:9777cf1a-70a5-4df5-afc0-2f79254bbf89
-SUMMARY:Snatra Pooja with Bhakti
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190602T090000Z
-DTEND:20190602T113000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+UID:b54be322-1860-4567-9c09-919c16e414a7
+SUMMARY:Snatra Pooja with Bhakti\n																							@ Oshwal Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190707T100000Z
+DTEND:20190707T123000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact
+	 Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
 END:VEVENT
 BEGIN:VEVENT
-UID:6019572e-514b-4ec5-bb52-11e44696e9f6
-SUMMARY:Ashta Prakari Puja
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190609T060000Z
-DTEND:20190609T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
+UID:1c1aa847-36ea-49ce-bdcb-83d31b719c89
+SUMMARY:Ashta Prakari Puja\n																							@ Oshwal Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190714T070000Z
+DTEND:20190714T090000Z
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help
+	 of Jayeshbhai and Varshaben. Everyone is welcome. For any further informa
+	tion please contact Varshaben via email varsha.shah@oshwal.org or phone 07
+	710 230 377.[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:7f3b12c9-315e-4742-90f6-4a857caf0e64
-SUMMARY:Snatra Pooja with Bhakti
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190609T090000Z
-DTEND:20190609T113000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+UID:3eb9e7e9-0b5a-44b4-a5c7-011c9760fe36
+SUMMARY:Snatra Pooja with Bhakti\n																							@ Oshwal Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190714T100000Z
+DTEND:20190714T123000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact
+	 Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
 END:VEVENT
 BEGIN:VEVENT
-UID:f5f8870f-e2ef-4fa8-a442-8c1f537bb542
-SUMMARY:Ashta Prakari Puja
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190616T060000Z
-DTEND:20190616T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
+UID:8dcf2ef5-f31f-47fd-a172-4235083b70e1
+SUMMARY:Ashta Prakari Puja\n																							@ Oshwal Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190721T070000Z
+DTEND:20190721T090000Z
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help
+	 of Jayeshbhai and Varshaben. Everyone is welcome. For any further informa
+	tion please contact Varshaben via email varsha.shah@oshwal.org or phone 07
+	710 230 377.[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:e4fc71f2-6430-48f1-8197-b8e5cccc8b2d
-SUMMARY:Snatra Pooja with Bhakti
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190616T090000Z
-DTEND:20190616T113000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+UID:3db4781c-d498-49da-973a-6b14899ec54e
+SUMMARY:Snatra Pooja with Bhakti\n																							@ Oshwal Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190721T100000Z
+DTEND:20190721T123000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact
+	 Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
 END:VEVENT
 BEGIN:VEVENT
-UID:0b768f5b-4e8b-489a-9cc5-db10db2d0cf1
-SUMMARY:Ashta Prakari Puja
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190623T060000Z
-DTEND:20190623T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
+UID:df53ea7c-a2c3-4fe0-b2ad-9531a4c82d9c
+SUMMARY:Ashta Prakari Puja\n																							@ Oshwal Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190728T070000Z
+DTEND:20190728T090000Z
+DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help
+	 of Jayeshbhai and Varshaben. Everyone is welcome. For any further informa
+	tion please contact Varshaben via email varsha.shah@oshwal.org or phone 07
+	710 230 377.[...]
 END:VEVENT
 BEGIN:VEVENT
-UID:39ed52cc-335e-4810-90f1-426a767fda0f
-SUMMARY:Snatra Pooja with Bhakti
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190623T090000Z
-DTEND:20190623T113000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+UID:230d9747-c9cc-4d3e-9f15-0108b4172fcf
+SUMMARY:Snatra Pooja with Bhakti\n																							@ Oshwal Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190728T100000Z
+DTEND:20190728T123000Z
+DESCRIPTION:Everyone is welcome. For any further information please contact
+	 Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
 END:VEVENT
 BEGIN:VEVENT
-UID:3cb016b9-979d-44a4-8afd-66d4cf78c422
-SUMMARY:Bhakti Sandhya 2019
-																							@ Oshwal Ekta Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190626T184500Z
-DTEND:20190626T210000Z
+UID:843e0b1c-1d31-479f-a2ab-069e9db51e71
+SUMMARY:Bhakti Sandhya 2019\n																							@ Oshwal Ekta Centre
+DTSTAMP:20190701T112000Z
+DTSTART:20190731T194500Z
+DTEND:20190731T220000Z
 DESCRIPTION: 
-END:VEVENT
-BEGIN:VEVENT
-UID:695c3b05-0316-4e17-9ed6-fa3cc0d00d9b
-SUMMARY:Ashta Prakari Puja
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190630T060000Z
-DTEND:20190630T080000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help of Jayeshbhai and Varshaben. Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.[...]
-END:VEVENT
-BEGIN:VEVENT
-UID:05aa0a39-3200-4d07-b407-7a17399ac29a
-SUMMARY:Snatra Pooja with Bhakti
-																							@ Oshwal Centre
-DTSTAMP:20190615T194500Z
-DTSTART:20190630T090000Z
-DTEND:20190630T113000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
 END:VEVENT
 END:VCALENDAR
