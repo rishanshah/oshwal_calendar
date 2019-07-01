@@ -48,7 +48,7 @@ var createIcs = function(categories){
 
             eventsArr.push({
               productId: 'Oshwal',
-              startType: '00:00',
+              startType: 'utc',
               title: $(this).find('.ai1ec-popup-title').text().trim(),
               start: [dateArr[2],dateArr[1],dateArr[0],parseInt(amPm(startTime)[0]),parseInt(amPm(startTime)[1])],
               end: [dateArr[2],dateArr[1],dateArr[0],parseInt(amPm(endTime)[0]),parseInt(amPm(endTime)[1])],
