@@ -109,8 +109,13 @@
             $.each($("input[type='checkbox']:checked"), function(){
                 favorite.push($(this).val());
             });
+<<<<<<< HEAD
             document.getElementById("link").textContent = "webcal://apricot-crumble-13119.herokuapp.com/calendar/subscribe/"+favorite.join(",")
             window.location.replace("webcal://apricot-crumble-13119.herokuapp.com/calendar/subscribe/"+favorite.join(","));
+=======
+            document.getElementById("link").textContent = "webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe/"+favorite.join(",")
+            window.location.replace("webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe/"+favorite.join(","));
+>>>>>>> master
 
         });
     });
