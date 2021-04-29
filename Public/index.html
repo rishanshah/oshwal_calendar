@@ -15,89 +15,9 @@
 <h3>Please select below which regions you would like to subscribe to</h3>
 
 <div style = "margin-bottom:20px" class="form-group">
-  <label class="form-checkbox">
-    <input value ="64" type="checkbox">
-    <i id ="64" class="form-icon"></i> East Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="76" type="checkbox">
-    <i id ="76" class="form-icon"></i> East Regular Events
-  </label>
-  <label class="form-checkbox">
-    <input value ="16" type="checkbox">
-    <i id ="16" class="form-icon"></i> Ec Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="73" type="checkbox">
-    <i id ="73" class="form-icon"></i> Ec Regular Events
-  </label>
-  <label class="form-checkbox">
-    <input value ="59" type="checkbox">
-    <i id ="59" class="form-icon"></i> Leicester Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="108" type="checkbox">
-    <i id ="108" class="form-icon"></i> Leicester Regular Events
-  </label>
-  <label class="form-checkbox">
-    <input value ="61" type="checkbox">
-    <i id ="61" class="form-icon"></i> Luton Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="62" type="checkbox">
-    <i id ="62" class="form-icon"></i> North East Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="74" type="checkbox">
-    <i id ="74" class="form-icon"></i> North East Regular Events
-  </label>
-  <label class="form-checkbox">
-    <input value ="39" type="checkbox">
-    <i id ="39" class="form-icon"></i> North Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="75" type="checkbox">
-    <i id ="75" class="form-icon"></i> North Regular Events
-  </label>
-  <label class="form-checkbox">
-    <input value ="17" type="checkbox">
-    <i id ="17" class="form-icon"></i> North West Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="71" type="checkbox">
-    <i id ="71" class="form-icon"></i> North West Regular Events
-  </label>
-  <label class="form-checkbox">
-    <input value ="60" type="checkbox">
-    <i id ="60" class="form-icon"></i> Northampton Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="97" type="checkbox">
-    <i id ="97" class="form-icon"></i> Religion Regular Events
-  </label>
-  <label class="form-checkbox">
-    <input value ="63" type="checkbox">
-    <i id ="63" class="form-icon"></i> South Event
-  </label>
-  <label class="form-checkbox">
-    <input value ="80" type="checkbox">
-    <i id ="80" class="form-icon"></i> South Regular Events
-  </label>
   <label  class="form-checkbox">
-    <input value ="119" type="checkbox">
-    <i id ="119" class="form-icon"></i> Sport
-  </label>
-  <label class="form-checkbox">
-    <input value ="20" type="checkbox">
-    <i id ="20" class="form-icon"></i> West Event
-  </label>
-  <label class="form-checkbox">
-    <input value = "109" type="checkbox">
-    <i id ="109" class="form-icon"></i> West Regular Events
-  </label>
-  <label  class="form-checkbox">
-    <input value="89" type="checkbox">
-    <i id ="89" class="form-icon"></i> Youth
+    <input value="2021" type="checkbox">
+    <i id ="89" class="form-icon"></i> 2021
   </label>
 </div>
 
@@ -109,13 +29,8 @@
             $.each($("input[type='checkbox']:checked"), function(){
                 favorite.push($(this).val());
             });
-<<<<<<< HEAD
-            document.getElementById("link").textContent = "webcal://apricot-crumble-13119.herokuapp.com/calendar/subscribe/"+favorite.join(",")
-            window.location.replace("webcal://apricot-crumble-13119.herokuapp.com/calendar/subscribe/"+favorite.join(","));
-=======
             document.getElementById("link").textContent = "webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe/"+favorite.join(",")
             window.location.replace("webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe/"+favorite.join(","));
->>>>>>> master
 
         });
     });

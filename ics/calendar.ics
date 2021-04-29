@@ -1,512 +1,259 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-<<<<<<< HEAD
-PRODID:adamgibbons/ics
-BEGIN:VEVENT
-UID:95b46823-4d80-431e-8f6f-039f45052b8e
-SUMMARY:North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												NW Elderly Monthly Meets
-											
-												North Area Saturday Cultural Activities
-											
-												NW Monthly Bhukhar
-DTSTAMP:20190615T115800Z
-DTSTART:20190601T083000Z
-DTEND:20190601T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:d12c7d14-70b5-4664-ac5b-b8c123e53336
-SUMMARY:Oshwal Health & Care Awareness Fair
-											
-												Ashta Prakari Puja
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												SAS Racquets & Kids Club
-											
-												Snatra Pooja with Bhakti
-DTSTAMP:20190615T115800Z
-DTSTART:20190602T060000Z
-DTEND:20190602T080000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4751d649-6bdb-4ae9-8d4e-c2d84eac1aa2
-SUMMARY:Ekta Mandal (Yoga)
-											
-												Ekta Mandal (Arts & Craft)
-											
-												North East Monday Yoga
-DTSTAMP:20190615T115800Z
-DTSTART:20190603T093000Z
-DTEND:20190603T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:d0d8ba77-3cdb-475a-8c43-0cb5c03924da
-SUMMARY:North East Tuesday Club
-											
-												North East Tuesday Yoga
-											
-												East Area Yoga Class
-											
-												North East Keep Fit
-DTSTAMP:20190615T115800Z
-DTSTART:20190604T090000Z
-DTEND:20190604T123000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:9f722638-cc0b-48cc-91ac-b486b01d2d70
-SUMMARY:North East Zumba Class
-											
-												How to start, grow, sustain and hand over a family business
-DTSTAMP:20190615T115800Z
-DTSTART:20190605T180000Z
-DTEND:20190605T190000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:c4ff65ee-481b-4637-8596-8732c1708bd3
-SUMMARY:Ekta Mandal (Yoga)
-											
-												East Area Thursday Club
-											
-												NW Weekly Bhukhar
-											
-												Key to Happiness – The Jain Way
-DTSTAMP:20190615T115800Z
-DTSTART:20190606T093000Z
-DTEND:20190606T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:50017a87-c8c8-40f7-a703-93b5492fdaeb
-SUMMARY:Anand Yatra 2019
-											
-												North Area Friday Youth Club
-											
-												North Area Friday Yoga
-											
-												North Area Friday Social Club
-											
-												Enabling Sports & Social Club
-DTSTAMP:20190615T115800Z
-DTSTART:20190607T070000Z
-DTEND:20190607T133000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:80480a22-3935-4512-b7d9-e2eefd3430c0
-SUMMARY:FunSkool, NWACAS and Communicate
-											
-												North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												North Area Saturday Cultural Activities
-DTSTAMP:20190615T115800Z
-DTSTART:20190608T081500Z
-DTEND:20190608T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:3fe16173-4894-4384-a16b-8d0f5c51262a
-SUMMARY:Ashta Prakari Puja
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												Snatra Pooja with Bhakti
-DTSTAMP:20190615T115800Z
-DTSTART:20190609T060000Z
-DTEND:20190609T080000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:e0c29e75-7388-43a1-88b2-7c0429810630
-SUMMARY:Ekta Mandal (Yoga)
-											
-												Ekta Mandal (Arts & Craft)
-											
-												North East Monday Yoga
-DTSTAMP:20190615T115800Z
-DTSTART:20190610T093000Z
-DTEND:20190610T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:b68abcff-7317-4ea4-b1ba-88d4b9b6b0af
-SUMMARY:North East Tuesday Club
-											
-												North East Tuesday Yoga
-											
-												East Area Yoga Class
-											
-												North East Keep Fit
-DTSTAMP:20190615T115800Z
-DTSTART:20190611T090000Z
-DTEND:20190611T123000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:1766d8a9-9954-4144-9c90-1ca6b69ae1b3
-SUMMARY:North East Zumba Class
-DTSTAMP:20190615T115800Z
-DTSTART:20190612T180000Z
-DTEND:20190612T190000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:698e5dd1-2b9c-40ff-bcd5-9dcfb68b646c
-SUMMARY:Ekta Mandal (Yoga)
-											
-												East Area Thursday Club
-											
-												NW – Weekly Bridge
-											
-												NW Weekly Bhukhar
-DTSTAMP:20190615T115800Z
-DTSTART:20190613T093000Z
-DTEND:20190613T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:80c3ee13-2c43-4e74-99ef-0f8a835808d3
-SUMMARY:Anand Yatra 2019
-											
-												North Area Friday Youth Club
-											
-												North Area Friday Yoga
-											
-												North Area Friday Social Club
-DTSTAMP:20190615T115800Z
-DTSTART:20190614T070000Z
-DTEND:20190614T133000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:207e9094-ec6d-4c40-ac56-b58aa21254f5
-SUMMARY:FunSkool, NWACAS and Communicate
-											
-												North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												North Area Saturday Cultural Activities
-											
-												NW Whist Drive (Chokdi)
-DTSTAMP:20190615T115800Z
-DTSTART:20190615T081500Z
-DTEND:20190615T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:43a087da-92fc-4f12-9e70-55fb2ad11a18
-SUMMARY:Ashta Prakari Puja
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												SAS Racquets & Kids Club
-											
-												Snatra Pooja with Bhakti
-DTSTAMP:20190615T115800Z
-DTSTART:20190616T060000Z
-DTEND:20190616T080000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4803ec9c-12bb-49ee-ae08-d881527eeeaa
-SUMMARY:Ekta Mandal (Yoga)
-											
-												Ekta Mandal (Arts & Craft)
-											
-												North East Monday Yoga
-DTSTAMP:20190615T115800Z
-DTSTART:20190617T093000Z
-DTEND:20190617T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:e5938c2d-67a7-495b-9f7e-d1164a9f0689
-SUMMARY:North East Tuesday Club
-											
-												North East Tuesday Yoga
-											
-												East Area Yoga Class
-											
-												North East Keep Fit
-DTSTAMP:20190615T115800Z
-DTSTART:20190618T090000Z
-DTEND:20190618T123000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:7ec5ee53-6392-40a4-8f5f-f35ea95c2305
-SUMMARY:NW Family Social Evening
-											
-												North East Zumba Class
-											
-												South Social Wednesday Wellbeing
-DTSTAMP:20190615T115800Z
-DTSTART:20190619T173000Z
-DTEND:20190619T213000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:452d9c7f-c98e-4e88-9675-3de47dddaa9d
-SUMMARY:Ekta Mandal (Yoga)
-											
-												East Area Thursday Club
-											
-												NW – Weekly Bridge
-											
-												NW Weekly Bhukhar
-											
-												Key to Happiness – The Jain Way
-DTSTAMP:20190615T115800Z
-DTSTART:20190620T093000Z
-DTEND:20190620T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:40dead8a-682b-49c8-ab1b-5ec066d7985a
-SUMMARY:Anand Yatra 2019
-											
-												North Area Friday Youth Club
-											
-												North Area Friday Yoga
-											
-												North Area Friday Social Club
-											
-												Enabling Sports & Social Club
-DTSTAMP:20190615T115800Z
-DTSTART:20190621T070000Z
-DTEND:20190621T133000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:d3453d5b-5d0c-4e80-b572-24f6a96d4008
-SUMMARY:FunSkool, NWACAS and Communicate
-											
-												North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												North Area Saturday Cultural Activities
-DTSTAMP:20190615T115800Z
-DTSTART:20190622T081500Z
-DTEND:20190622T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:e72e0b30-afbc-439b-9e31-57e78c550348
-SUMMARY:Ashta Prakari Puja
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												Summer Bhukhar Competition 2019
-											
-												Snatra Pooja with Bhakti
-											
-												Chokdi Tournament 2019 and Chai
-DTSTAMP:20190615T115800Z
-DTSTART:20190623T060000Z
-DTEND:20190623T080000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:b3ec59f5-1329-42bb-bad3-96280a88079e
-SUMMARY:Ekta Mandal (Yoga)
-											
-												Ekta Mandal (Arts & Craft)
-											
-												North East Monday Yoga
-DTSTAMP:20190615T115800Z
-DTSTART:20190624T093000Z
-DTEND:20190624T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:8d597f31-2128-423e-ba88-17f8b17172a6
-SUMMARY:North East Tuesday Club
-											
-												North East Tuesday Yoga
-											
-												East Area Yoga Class
-											
-												North East Keep Fit
-DTSTAMP:20190615T115800Z
-DTSTART:20190625T090000Z
-DTEND:20190625T123000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:b4d77b99-dc9f-4dcf-bc28-3248cc531ea6
-SUMMARY:North East Zumba Class
-											
-												Bhakti Sandhya 2019
-											
-												Blood Donation Awareness Seminar
-DTSTAMP:20190615T115800Z
-DTSTART:20190626T180000Z
-DTEND:20190626T190000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4bb61c55-7509-43cc-91b2-3322a5fb5fd9
-SUMMARY:Ekta Mandal (Yoga)
-											
-												East Area Thursday Club
-											
-												NW – Weekly Bridge
-											
-												NW Weekly Bhukhar
-DTSTAMP:20190615T115800Z
-DTSTART:20190627T093000Z
-DTEND:20190627T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:930bab86-9069-479b-870d-1ec64ab60b07
-SUMMARY:Anand Yatra 2019
-											
-												North Area Friday Youth Club
-											
-												North Area Friday Yoga
-											
-												North Area Friday Social Club
-DTSTAMP:20190615T115800Z
-DTSTART:20190628T070000Z
-DTEND:20190628T133000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:d82661b1-3138-48e0-bf9f-7b5621974050
-SUMMARY:FunSkool, NWACAS and Communicate
-											
-												North Area Saturday Gujarati School
-											
-												North Area Saturday Yoga
-											
-												North Area Saturday BollyAerobics
-											
-												North East Saturday Yoga
-											
-												North Area Saturday Cultural Activities
-											
-												East Area Monthly Social Gathering
-DTSTAMP:20190615T115800Z
-DTSTART:20190629T081500Z
-DTEND:20190629T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:e6ba22fa-1852-47f1-952d-ac07c33896d4
-SUMMARY:Ashta Prakari Puja
-											
-												Epping Forest Trek
-											
-												North East Sunday Yoga
-											
-												North East Youth Club
-											
-												SAS Racquets & Kids Club
-											
-												Snatra Pooja with Bhakti
-DTSTAMP:20190615T115800Z
-DTSTART:20190630T060000Z
-DTEND:20190630T080000Z
-=======
 PRODID:Oshwal
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ae143805-9bcb-4f92-880a-1067bb52f345
-SUMMARY:Ashta Prakari Puja\n																							@ Oshwal Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190707T070000Z
-DTEND:20190707T090000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help
-	 of Jayeshbhai and Varshaben. Everyone is welcome. For any further informa
-	tion please contact Varshaben via email varsha.shah@oshwal.org or phone 07
-	710 230 377.[...]
+UID:d67c0fee-5b74-45d7-af4a-3506b6dcc435
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20210124T000000Z
+DURATION:PT24H
 END:VEVENT
 BEGIN:VEVENT
-UID:03798c99-c498-4f53-a055-425239e2daa4
-SUMMARY:Snatra Pooja with Bhakti\n																							@ Oshwal Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190707T100000Z
-DTEND:20190707T123000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact
-	 Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+UID:a7db46f3-a944-4157-98da-a3b7b437a506
+SUMMARY:Meru Trayodashi
+DTSTAMP:20210429T203200Z
+DTSTART:20210209T000000Z
+DURATION:PT24H
 END:VEVENT
 BEGIN:VEVENT
-UID:9ade58b0-cc35-452e-82e2-687d042d33e8
-SUMMARY:Ashta Prakari Puja\n																							@ Oshwal Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190714T070000Z
-DTEND:20190714T090000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help
-	 of Jayeshbhai and Varshaben. Everyone is welcome. For any further informa
-	tion please contact Varshaben via email varsha.shah@oshwal.org or phone 07
-	710 230 377.[...]
+UID:2463f2bd-ddd0-4c03-b1e5-5b7138fc20cc
+SUMMARY: Rohini Vrat 
+DTSTAMP:20210429T203200Z
+DTSTART:20210220T000000Z
+DURATION:PT24H
 END:VEVENT
 BEGIN:VEVENT
-UID:4779fb12-d15c-46f6-a614-e4567b2a98c8
-SUMMARY:Snatra Pooja with Bhakti\n																							@ Oshwal Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190714T100000Z
-DTEND:20190714T123000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact
-	 Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+UID:f8964e22-96c7-4e74-8737-d54fb1cbdd57
+SUMMARY:Phalguna Ashtanika Begins
+DTSTAMP:20210429T203200Z
+DTSTART:20210320T000000Z
+DURATION:PT24H
 END:VEVENT
 BEGIN:VEVENT
-UID:eb9b67b0-1cee-4b81-90e3-d64a23f590ba
-SUMMARY:Ashta Prakari Puja\n																							@ Oshwal Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190721T070000Z
-DTEND:20190721T090000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help
-	 of Jayeshbhai and Varshaben. Everyone is welcome. For any further informa
-	tion please contact Varshaben via email varsha.shah@oshwal.org or phone 07
-	710 230 377.[...]
+UID:78925ccc-9fe4-42a4-86d1-4decac1f4562
+SUMMARY:Phalguna Chaumasi Chaudas
+DTSTAMP:20210429T203200Z
+DTSTART:20210327T000000Z
+DURATION:PT24H
 END:VEVENT
 BEGIN:VEVENT
-UID:6e5e23b9-1bb8-4094-a1d7-84f7e86cea00
-SUMMARY:Snatra Pooja with Bhakti\n																							@ Oshwal Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190721T100000Z
-DTEND:20190721T123000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact
-	 Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+UID:9aaeb8b0-da56-448d-aa08-0b2237b0c15c
+SUMMARY:Phalguna Ashtahnika Ends
+DTSTAMP:20210429T203200Z
+DTSTART:20210328T000000Z
+DURATION:PT24H
 END:VEVENT
 BEGIN:VEVENT
-UID:8079ee72-d50b-4d31-9d67-82c9fddf3074
-SUMMARY:Ashta Prakari Puja\n																							@ Oshwal Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190728T070000Z
-DTEND:20190728T090000Z
-DESCRIPTION:Ashta Prakari Puja from 7am to 9am in the Derasar with the help
-	 of Jayeshbhai and Varshaben. Everyone is welcome. For any further informa
-	tion please contact Varshaben via email varsha.shah@oshwal.org or phone 07
-	710 230 377.[...]
+UID:e4c85072-7086-4ddd-beb0-1dfa43cae060
+SUMMARY:Varshitapa Arambha
+DTSTAMP:20210429T203200Z
+DTSTART:20210403T230000Z
+DURATION:PT24H
 END:VEVENT
 BEGIN:VEVENT
-UID:9f9d4ec9-cb19-4d39-ab49-892a194182e2
-SUMMARY:Snatra Pooja with Bhakti\n																							@ Oshwal Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190728T100000Z
-DTEND:20190728T123000Z
-DESCRIPTION:Everyone is welcome. For any further information please contact
-	 Varshaben via email varsha.shah@oshwal.org or phone 07710 230 377.
+UID:6282b5cb-559f-4796-825c-ff7f040c1188
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20210415T230000Z
+DURATION:PT24H
 END:VEVENT
 BEGIN:VEVENT
-UID:bd7c7d33-6130-4c90-af3b-306ceb93e9fe
-SUMMARY:Bhakti Sandhya 2019\n																							@ Oshwal Ekta Centre
-DTSTAMP:20190701T130500Z
-DTSTART:20190731T194500Z
-DTEND:20190731T220000Z
-DESCRIPTION: 
->>>>>>> master
+UID:b117b5b9-bdb5-4d97-85b7-7a8b063bcaa4
+SUMMARY:Chitra Navapada Oli Begins
+DTSTAMP:20210429T203200Z
+DTSTART:20210418T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1970a9-d592-4896-8a37-5ace508f5260
+SUMMARY:Mahavir Swami Jayanti
+DTSTAMP:20210429T203200Z
+DTSTART:20210424T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:7fdd846b-3d9f-4191-aaf0-1e312c0bf087
+SUMMARY:Chitra Navapada Oli Ends
+DTSTAMP:20210429T203200Z
+DTSTART:20210426T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:e4118b88-e581-4c90-93ba-2f101f19f257
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20210512T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5f7d2c-e78f-42d1-8471-95eb2068d20a
+SUMMARY:Varshitapa Parana
+DTSTAMP:20210429T203200Z
+DTSTART:20210513T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:5f88aa37-eeb9-4afd-8fea-fa38e6afd2b0
+SUMMARY:Mahavir Swami Kevalgyan
+DTSTAMP:20210429T203200Z
+DTSTART:20210521T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:28baa154-2753-4095-84b4-e93487b4c0e4
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20210609T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:853df43f-159a-4cd7-92c9-16c9eeb908f7
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20210706T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:bf3b4b34-890a-4203-82d7-91289cba9346
+SUMMARY:Ashada Ashtanika Begins
+DTSTAMP:20210429T203200Z
+DTSTART:20210715T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:2d82f165-d3af-4665-9e08-60172922e1ca
+SUMMARY:Ashada Chaumasi Chaudas
+DTSTAMP:20210429T203200Z
+DTSTART:20210722T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:6f42b464-a5ea-4b56-bdac-eaff3b39cef9
+SUMMARY:Ashada Ashtahnika Ends
+DTSTAMP:20210429T203200Z
+DTSTART:20210723T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:3031b206-c266-4833-b243-136bcbaf783e
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20210802T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:d714d05b-09a8-42d6-9bb4-ea7bcab763f9
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20210830T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:6082feff-b2df-4fbf-be5f-ade7e614b223
+SUMMARY:Paryushan Parvarambha
+DTSTAMP:20210429T203200Z
+DTSTART:20210903T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:272efb98-4134-4a9e-a403-2c74059dded3
+SUMMARY:Samvatsari Parva
+DTSTAMP:20210429T203200Z
+DTSTART:20210910T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:77ff6a01-f83b-408b-9afc-5cf21fd6c77f
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20210926T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:0d35cdb8-4959-4b6a-8c0d-a96058f96457
+SUMMARY:Ashwina Navapada Oli Begins
+DTSTAMP:20210429T203200Z
+DTSTART:20211011T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:bd759674-32fd-43b1-8059-a23a54e9df7c
+SUMMARY:Ashwina Navapada Oli Ends
+DTSTAMP:20210429T203200Z
+DTSTART:20211019T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ad2055-d21c-43f7-b493-94205e02acb6
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20211023T230000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4b167f-6aaf-42c6-ac86-65c701bb2b01
+SUMMARY: Lakshmi Puja 
+DTSTAMP:20210429T203200Z
+DTSTART:20211104T000000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:39ac1d26-9387-4a70-a5b7-66deb2564096
+SUMMARY:Gujarat New year
+DTSTAMP:20210429T203200Z
+DTSTART:20211105T000000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2906a2-16e2-4ece-b2d8-7ea32be8bf42
+SUMMARY: Labh Panchami 
+DTSTAMP:20210429T203200Z
+DTSTART:20211109T000000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:aae04e59-ff86-47a2-8f79-60f6d0eafbfe
+SUMMARY:Kartika Ashtanika Begins
+DTSTAMP:20210429T203200Z
+DTSTART:20211111T000000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:12fd6428-a101-4243-b851-a24c9aaa2ff4
+SUMMARY:Kartika Chaumasi Chaudas
+DTSTAMP:20210429T203200Z
+DTSTART:20211118T000000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:bb519a83-1d93-486d-9c2c-4e91d266ad42
+SUMMARY:Kartika Ashtahnika Ends
+DTSTAMP:20210429T203200Z
+DTSTART:20211119T000000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:e234fb73-4def-4f95-bc6b-97fe332edd13
+SUMMARY:Kartika Rath Yatra
+DTSTAMP:20210429T203200Z
+DTSTART:20211119T000000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:a1eaa6c7-dcd3-4d1f-9c5a-0e1cf288e4f7
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20211120T000000Z
+DURATION:PT24H
+END:VEVENT
+BEGIN:VEVENT
+UID:bbd92742-4cd4-4554-a545-993ad4179cf5
+SUMMARY:Rohini Vrat
+DTSTAMP:20210429T203200Z
+DTSTART:20211218T000000Z
+DURATION:PT24H
 END:VEVENT
 END:VCALENDAR

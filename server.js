@@ -1,5 +1,4 @@
 'use strict';
-
 const express = require('express');
 const app = express();
 const ical = require('ical');
@@ -11,12 +10,8 @@ var calendarController = require('./calendarcontroller/calendar');
 
 app.get('/api/calendar/subscribe/:categories?', (req, res) => {
     const getData = new Promise(function(resolve,reject){
-<<<<<<< HEAD
-      calendarController.createIcs(req.param.categories)
-=======
-      calendarController.createIcs(req.params.categories)
-      //console.log(req.params.categories);
->>>>>>> master
+    calendarController.createIcs(req.params.categories)
+      // console.log(req.params.categories);
       fs.watch(`${process.cwd()}/ics/calendar.ics`,(curr,prev) => {
         if(curr){
           resolve("success")

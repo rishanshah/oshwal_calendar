@@ -1,20 +1,17 @@
 
 
-<<<<<<< HEAD
-exports.createIcs = function(categories){
-=======
 var createIcs = function(categories){
->>>>>>> master
   const cheerio = require('cheerio');
   const rp = require('request-promise');
   const { writeFileSync } = require('fs');
   const ics = require('ics');
   const convertTime = require('convert-time');
-  const fs = require('fs')
+  const dateparse = require('date-and-time')
+  const fs = require('fs');
   console.log(categories);
   var options = {
 
-    uri:"https://www.oshwal.org.uk/calendar/action~month/cat_ids~"+categories+"/request_format~json/",
+    uri:"https://www.astrosage.com/"+categories+"/jain-calendar-"+categories+"-dates.asp",
     transform: function(body){
       return cheerio.load(body, {ignoreWhitespace: true});
     }
@@ -31,37 +28,31 @@ var createIcs = function(categories){
   rp(options)
     .then(($) => {
       var eventsArr = [];
-      $('.ai1ec-day').each(function(i,elem){
+      $('tr').each(function(i,elem){
         // console.log('-----------');
-        // console.log($(this).find('.ai1ec-date a').attr('href').split('/')[5].replace('exact_date~','').split('-'));
-        // console.log($(this).find('.ai1ec-event-title').text().trim());
-        //console.log($(this).find('.ai1ec-event-time').text().split('@')[1]);
-        //console.log($(this).find('.ai1ec-popover .ai1ec-popup-excerpt').text());
-        var dateArr = $(this).find('.ai1ec-date a').attr('href').split('/')[5].replace('exact_date~','').split('-')
-        $(this).find('.ai1ec-popover ').each(function(i,elem){
-          var timeOfEvent = $(this).find('.ai1ec-event-time').text().split('@')[1]
-          var descriptionstr = $(this).find('.ai1ec-popup-excerpt').text()
+        var event = $(this).find('td').text().split('\n')
+        if(event[1]!='Festival '){
+          const pattern = dateparse.compile('MMMMD,YYYY');
+          // console.log(event)
+          // console.log(dateparse.parse(event[3].replace(/\s+/g,''), pattern))
+          var date = dateparse.parse(event[3].replace(/\s+/g,''), pattern)
+          // console.log(date.getFullYear())
+          // console.log(date.getMonth())
+          // console.log(date.getDate())
+          // console.log(event[3].replace(/\s+/g,''))
+          // console.log(date)
+          eventsArr.push({
+            productId: 'Oshwal',
+            startType: 'utc',
+            title: event[1],
+            start: [date.getFullYear(),date.getMonth()+1,date.getDate(),0,0],
+            duration: { hours: 24, minutes: 0 },
+            description: ''
+            })
+
+        }
 
 
-          if(timeOfEvent != undefined){
-            timeOfEvent = timeOfEvent.trim().split(' ')
-            //console.log(timeOfEvent[4].substring(0,2))
-            var startTime = timeOfEvent[0]+ timeOfEvent[1]
-            var endTime =  timeOfEvent[3]+ timeOfEvent[4].substring(0,2)
-            //console.log(amPm(startTime)[0],amPm(endTime));
-
-            eventsArr.push({
-              productId: 'Oshwal',
-              startType: 'utc',
-              title: $(this).find('.ai1ec-popup-title').text().trim(),
-              start: [dateArr[2],dateArr[1],dateArr[0],parseInt(amPm(startTime)[0]),parseInt(amPm(startTime)[1])],
-              end: [dateArr[2],dateArr[1],dateArr[0],parseInt(amPm(endTime)[0]),parseInt(amPm(endTime)[1])],
-              description: descriptionstr
-              })
-
-          }
-
-      });
 
       })
       //console.log(eventsArr);
