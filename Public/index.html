@@ -12,25 +12,17 @@
 
 <h1> Oshwal Calendar</h1>
 
-<h3>Please select below which regions you would like to subscribe to</h3>
+<h3>Please select below to subscribe</h3>
 
-<div style = "margin-bottom:20px" class="form-group">
-  <label  class="form-checkbox">
-    <input value="2021" type="checkbox">
-    <i id ="89" class="form-icon"></i> 2021
-  </label>
-</div>
 
 <button class="btn btn-primary">Subscribe</button>
 <script type="text/javascript">
   $(document).ready(function() {
         $("button").click(function(){
-            var favorite = [];
-            $.each($("input[type='checkbox']:checked"), function(){
-                favorite.push($(this).val());
-            });
-            document.getElementById("link").textContent = "webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe/"+favorite.join(",")
-            window.location.replace("webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe/"+favorite.join(","));
+          var d = new Date();
+          d = d.getFullYear();
+          document.getElementById("link").textContent = "webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe/"+d.toString();
+          window.location.replace("webcal://apricot-crumble-13119.herokuapp.com/api/calendar/subscribe/"+d.toString());
 
         });
     });

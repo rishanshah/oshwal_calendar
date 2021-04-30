@@ -45,8 +45,7 @@ var createIcs = function(categories){
             productId: 'Oshwal',
             startType: 'utc',
             title: event[1],
-            start: [date.getFullYear(),date.getMonth()+1,date.getDate(),0,0],
-            duration: { hours: 24, minutes: 0 },
+            start: [date.getFullYear(),date.getMonth()+1,date.getDate()],
             description: ''
             })
 
