@@ -46,7 +46,8 @@ var createIcs = function(categories){
             startType: 'utc',
             title: event[1],
             start: [date.getFullYear(),date.getMonth()+1,date.getDate()],
-            description: ''
+            end: [date.getFullYear(),date.getMonth()+1,date.getDate()],
+            description: 'Jain Calendar Event'
             })
 
         }
